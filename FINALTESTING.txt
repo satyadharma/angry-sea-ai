@@ -1,0 +1,2791 @@
+20:18:52
+Server started on port: 9000
+Waiting for client to connect
+Client connected
+Shooting Completed
+
+scale factor changed to: 1.005
+ Level 1 Score: 30390 
+Total Score: 30390
+Shooting Completed
+
+scale factor changed to: 1.005
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+Total Score: 83490
+ In state:   WON Try reloading...
+ In state:   WON Try reloading...
+ In state:   WON Try reloading...
+ In state:   WON Try reloading...
+ In state:   WON Try reloading...
+ In state:   WON Try reloading...
+ In state:   LEVEL_SELECTION Try reloading...
+Shooting Completed
+
+scale factor changed to: 0.9993736509396625
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+Total Score: 123960
+0.16 0.13 0.08 0.13 
+0.16 0.13 0.08 0.13 
+0.16 0.13 0.08 0.12 
+0.02 0.13 0.25 0.13 
+0.02 0.13 0.25 0.13 
+0.16 0.13 0.01 0.12 
+0.16 0.13 0.24 0.12 
+0.16 0.13 0.01 0.11 
+ab.vision.ABObject[x=541,y=338,width=3,height=21] Wood : 0.1042
+ab.vision.ABObject[x=541,y=321,width=19,height=13] Wood : 0.103
+ab.vision.ABObject[x=529,y=287,width=46,height=74] Ice : 0.1027
+ab.vision.ABObject[x=554,y=338,width=2,height=22] Stone : 0.1843
+ab.vision.ABObject[x=552,y=331,width=49,height=4] Stone : 0.1852
+ab.vision.ABObject[x=574,y=295,width=5,height=22] Ice : 0.0594
+ab.vision.ABObject[x=567,y=320,width=22,height=8] Wood : 0.2021
+ab.vision.ABObject[x=577,y=286,width=46,height=24] Ice : 0.059
+BEST : ab.vision.ABObject[x=567,y=320,width=22,height=8] Wood
+Shooting Completed
+
+scale factor changed to: 1.0112042358765172
+0.19 0.14 0.09 0.15 
+0.19 0.14 0.09 0.14 
+0.03 0.14 0.27 0.15 
+0.03 0.14 0.28 0.15 
+0.19 0.14 0.01 0.13 
+0.19 0.14 0.26 0.14 
+0.19 0.14 0.01 0.13 
+ab.vision.ABObject[x=540,y=338,width=3,height=21] Wood : 0.1175
+ab.vision.ABObject[x=541,y=321,width=19,height=12] Wood : 0.1162
+ab.vision.ABObject[x=553,y=336,width=4,height=24] Stone : 0.2019
+ab.vision.ABObject[x=553,y=331,width=49,height=4] Stone : 0.2032
+ab.vision.ABObject[x=574,y=294,width=6,height=23] Ice : 0.0689
+ab.vision.ABObject[x=568,y=320,width=22,height=8] Wood : 0.2239
+ab.vision.ABObject[x=577,y=286,width=47,height=24] Ice : 0.0685
+BEST : ab.vision.ABObject[x=568,y=320,width=22,height=8] Wood
+Randomly changing to java.awt.Point[x=568,y=329]
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+Total Score: 152630
+0.02 0.08 0.04 0.10 
+0.02 0.08 0.04 0.10 
+0.11 0.08 0.04 0.10 
+0.02 0.08 0.12 0.09 
+0.11 0.08 0.11 0.08 
+0.11 0.08 0.11 0.07 
+0.11 0.08 0.12 0.09 
+0.11 0.08 0.11 0.08 
+0.11 0.08 0.11 0.08 
+0.11 0.08 0.11 0.07 
+0.11 0.08 0.11 0.07 
+0.11 0.08 0.00 0.07 
+ab.vision.ABObject[x=517,y=348,width=29,height=33] Stone : 0.0461
+ab.vision.ABObject[x=550,y=339,width=4,height=44] Stone : 0.0472
+ab.vision.ABObject[x=546,y=332,width=44,height=5] Ice : 0.0628
+ab.vision.ABObject[x=571,y=288,width=4,height=44] Stone : 0.0921
+ab.vision.ABObject[x=573,y=261,width=5,height=20] Ice : 0.1018
+ab.vision.ABObject[x=574,y=242,width=5,height=11] Ice : 0.0993
+ab.vision.ABObject[x=576,y=288,width=3,height=44] Wood : 0.1079
+ab.vision.ABObject[x=571,y=283,width=19,height=3] Wood : 0.1037
+ab.vision.ABObject[x=580,y=261,width=5,height=20] Ice : 0.1019
+ab.vision.ABObject[x=583,y=243,width=14,height=10] Ice : 0.0995
+ab.vision.ABObject[x=575,y=242,width=45,height=17] Ice : 0.0997
+ab.vision.ABObject[x=604,y=242,width=4,height=10] Ice : 0.038
+BEST : ab.vision.ABObject[x=576,y=288,width=3,height=44] Wood
+Shooting Completed
+
+scale factor changed to: 1.003984216937909
+0.02 0.10 0.07 0.13 
+0.02 0.10 0.07 0.12 
+0.13 0.10 0.07 0.12 
+0.02 0.10 0.20 0.11 
+0.13 0.10 0.19 0.09 
+0.13 0.10 0.20 0.10 
+0.13 0.10 0.01 0.09 
+0.13 0.10 0.19 0.09 
+0.13 0.10 0.01 0.09 
+0.13 0.10 0.01 0.09 
+ab.vision.ABObject[x=516,y=348,width=30,height=34] Stone : 0.0683
+ab.vision.ABObject[x=550,y=339,width=4,height=44] Stone : 0.0704
+ab.vision.ABObject[x=546,y=332,width=44,height=5] Ice : 0.0905
+ab.vision.ABObject[x=571,y=287,width=3,height=44] Stone : 0.1497
+ab.vision.ABObject[x=573,y=242,width=4,height=9] Ice : 0.1559
+ab.vision.ABObject[x=571,y=283,width=20,height=3] Wood : 0.1633
+ab.vision.ABObject[x=587,y=242,width=4,height=9] Ice : 0.048
+ab.vision.ABObject[x=574,y=254,width=44,height=6] Ice : 0.1578
+ab.vision.ABObject[x=603,y=242,width=4,height=10] Ice : 0.048
+ab.vision.ABObject[x=615,y=242,width=4,height=10] Ice : 0.048
+BEST : ab.vision.ABObject[x=571,y=283,width=20,height=3] Wood
+Randomly changing to java.awt.Point[x=579,y=279]
+Shooting Completed
+
+scale factor changed to: 1.0023160748892048
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+Total Score: 208050
+0.09 0.07 0.27 0.07 
+0.09 0.07 0.30 0.08 
+0.01 0.07 0.03 0.08 
+0.01 0.07 0.03 0.08 
+0.09 0.07 0.01 0.07 
+0.09 0.07 0.29 0.07 
+0.09 0.07 0.01 0.07 
+0.09 0.07 0.01 0.06 
+0.09 0.07 0.01 0.07 
+0.01 0.07 0.01 0.07 
+0.01 0.07 0.01 0.07 
+0.09 0.07 0.01 0.06 
+0.09 0.07 0.01 0.06 
+0.09 0.07 0.01 0.06 
+ab.vision.ABObject[x=538,y=308,width=8,height=9] Wood : 0.1974
+ab.vision.ABObject[x=538,y=327,width=9,height=22] Ice : 0.2124
+ab.vision.ABObject[x=537,y=357,width=22,height=8] Stone : 0.0373
+ab.vision.ABObject[x=537,y=351,width=49,height=3] Stone : 0.0392
+ab.vision.ABObject[x=558,y=308,width=7,height=9] Wood : 0.038
+ab.vision.ABObject[x=538,y=319,width=48,height=5] Ice : 0.2076
+ab.vision.ABObject[x=577,y=308,width=8,height=9] Wood : 0.0379
+ab.vision.ABObject[x=604,y=265,width=8,height=9] Wood : 0.0364
+ab.vision.ABObject[x=603,y=283,width=10,height=23] Ice : 0.0371
+ab.vision.ABObject[x=604,y=314,width=22,height=8] Stone : 0.0239
+ab.vision.ABObject[x=604,y=308,width=47,height=3] Stone : 0.0235
+ab.vision.ABObject[x=623,y=265,width=8,height=9] Wood : 0.0364
+ab.vision.ABObject[x=603,y=277,width=50,height=5] Ice : 0.0366
+ab.vision.ABObject[x=643,y=265,width=8,height=9] Wood : 0.0363
+BEST : ab.vision.ABObject[x=538,y=327,width=9,height=22] Ice
+Shooting Completed
+
+scale factor changed to: 1.030041389726781
+0.22 0.14 0.76 0.15 
+0.03 0.14 0.07 0.16 
+0.03 0.14 0.08 0.16 
+0.22 0.14 0.02 0.12 
+0.22 0.14 0.02 0.13 
+0.03 0.14 0.02 0.14 
+0.22 0.14 0.02 0.13 
+ab.vision.ABObject[x=538,y=327,width=10,height=21] Ice : 0.5292
+ab.vision.ABObject[x=537,y=357,width=22,height=8] Stone : 0.0847
+ab.vision.ABObject[x=537,y=350,width=48,height=4] Stone : 0.0896
+ab.vision.ABObject[x=604,y=265,width=8,height=9] Wood : 0.0815
+ab.vision.ABObject[x=603,y=283,width=10,height=23] Ice : 0.0829
+ab.vision.ABObject[x=604,y=308,width=47,height=3] Stone : 0.0504
+ab.vision.ABObject[x=603,y=277,width=50,height=5] Ice : 0.0818
+BEST : ab.vision.ABObject[x=538,y=327,width=10,height=21] Ice
+Randomly changing to java.awt.Point[x=531,y=333]
+Shooting Completed
+
+scale factor changed to: 1.030041389726781
+0.15 0.10 0.01 0.11 
+0.15 0.10 0.01 0.11 
+0.02 0.10 0.01 0.11 
+0.02 0.10 0.01 0.11 
+0.15 0.10 0.01 0.10 
+0.15 0.10 0.28 0.08 
+0.15 0.10 0.31 0.09 
+0.02 0.10 0.03 0.10 
+0.02 0.10 0.03 0.09 
+0.15 0.10 0.30 0.09 
+ab.vision.ABObject[x=454,y=372,width=9,height=9] Wood : 0.0546
+ab.vision.ABObject[x=479,y=373,width=8,height=8] Wood : 0.0547
+ab.vision.ABObject[x=536,y=357,width=23,height=8] Stone : 0.0324
+ab.vision.ABObject[x=537,y=350,width=48,height=4] Stone : 0.0322
+ab.vision.ABObject[x=553,y=337,width=23,height=11] Ice : 0.0542
+ab.vision.ABObject[x=604,y=265,width=8,height=9] Wood : 0.2183
+ab.vision.ABObject[x=603,y=283,width=10,height=23] Ice : 0.2317
+ab.vision.ABObject[x=604,y=314,width=22,height=8] Stone : 0.0445
+ab.vision.ABObject[x=604,y=308,width=47,height=3] Stone : 0.0465
+ab.vision.ABObject[x=603,y=277,width=50,height=5] Ice : 0.2308
+BEST : ab.vision.ABObject[x=603,y=283,width=10,height=23] Ice
+Shooting Completed
+
+scale factor changed to: 1.035376753734119
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+Total Score: 233310
+Shooting Completed
+
+scale factor changed to: 1.0074358041406177
+Shooting Completed
+
+scale factor changed to: 1.0076189262603155
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+Total Score: 270080
+Shooting Completed
+
+scale factor changed to: 1.0004127741295326
+0.21 0.11 0.32 0.11 
+0.21 0.11 0.30 0.11 
+0.03 0.11 0.33 0.12 
+0.03 0.11 0.01 0.11 
+0.03 0.11 0.01 0.10 
+0.03 0.11 0.01 0.11 
+0.03 0.11 0.01 0.12 
+0.21 0.11 0.01 0.11 
+0.21 0.11 0.01 0.11 
+ab.vision.ABObject[x=518,y=255,width=7,height=8] Wood : 0.2517
+ab.vision.ABObject[x=517,y=242,width=8,height=11] Ice : 0.242
+ab.vision.ABObject[x=518,y=266,width=8,height=9] Stone : 0.2293
+ab.vision.ABObject[x=555,y=243,width=6,height=5] Stone : 0.0361
+ab.vision.ABObject[x=555,y=224,width=15,height=12] Stone : 0.0352
+ab.vision.ABObject[x=566,y=243,width=6,height=5] Stone : 0.0359
+ab.vision.ABObject[x=603,y=267,width=9,height=8] Stone : 0.0365
+ab.vision.ABObject[x=603,y=242,width=9,height=11] Ice : 0.0664
+ab.vision.ABObject[x=605,y=256,width=7,height=7] Wood : 0.0669
+BEST : ab.vision.ABObject[x=518,y=255,width=7,height=8] Wood
+Shooting Completed
+
+scale factor changed to: 0.9958966210857173
+0.06 0.14 0.13 0.15 
+0.36 0.14 0.13 0.15 
+0.06 0.14 0.14 0.14 
+0.06 0.14 0.14 0.13 
+0.06 0.14 0.43 0.14 
+0.06 0.14 0.02 0.15 
+0.36 0.14 0.01 0.14 
+ab.vision.ABObject[x=518,y=266,width=9,height=9] Stone : 0.1215
+ab.vision.ABObject[x=531,y=265,width=10,height=8] Wood : 0.1765
+ab.vision.ABObject[x=555,y=243,width=6,height=5] Stone : 0.125
+ab.vision.ABObject[x=555,y=224,width=15,height=12] Stone : 0.1226
+ab.vision.ABObject[x=566,y=243,width=6,height=5] Stone : 0.299
+ab.vision.ABObject[x=603,y=267,width=9,height=8] Stone : 0.0523
+ab.vision.ABObject[x=603,y=242,width=9,height=11] Ice : 0.1032
+BEST : ab.vision.ABObject[x=566,y=243,width=6,height=5] Stone
+Shooting Completed
+
+scale factor changed to: 0.995835677772347
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+Total Score: 306710
+Shooting Completed
+
+scale factor changed to: 1.0114180695511659
+Shooting Completed
+
+scale factor changed to: 1.006646758059674
+Shooting Completed
+
+scale factor changed to: 1.0123175803610187
+Randomly changing to java.awt.Point[x=641,y=322]
+Shooting Completed
+
+scale factor changed to: 1.0121426132631761
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+Total Score: 330620
+0.02 0.09 0.21 0.11 
+0.18 0.09 0.19 0.09 
+0.18 0.09 0.19 0.09 
+0.18 0.09 0.18 0.09 
+0.02 0.09 0.20 0.10 
+0.18 0.09 0.01 0.08 
+0.02 0.09 0.01 0.09 
+0.18 0.09 0.01 0.08 
+0.02 0.09 0.01 0.09 
+0.02 0.09 0.01 0.08 
+0.02 0.09 0.01 0.09 
+ab.vision.ABObject[x=510,y=305,width=4,height=35] Stone : 0.1497
+ab.vision.ABObject[x=512,y=283,width=10,height=9] Ice : 0.1661
+ab.vision.ABObject[x=516,y=270,width=10,height=10] Ice : 0.1632
+ab.vision.ABObject[x=523,y=261,width=9,height=9] Ice : 0.1612
+ab.vision.ABObject[x=512,y=301,width=40,height=2] Stone : 0.1438
+ab.vision.ABObject[x=528,y=251,width=8,height=8] Ice : 0.0543
+ab.vision.ABObject[x=595,y=268,width=2,height=36] Stone : 0.0273
+ab.vision.ABObject[x=595,y=246,width=8,height=10] Ice : 0.054
+ab.vision.ABObject[x=601,y=268,width=2,height=41] Stone : 0.0274
+ab.vision.ABObject[x=596,y=259,width=41,height=2] Stone : 0.0264
+ab.vision.ABObject[x=602,y=264,width=35,height=4] Stone : 0.0266
+BEST : ab.vision.ABObject[x=512,y=283,width=10,height=9] Ice
+distance 4.486775007160295
+velocity 1.0544032320158117
+Shooting Completed
+
+scale factor changed to: 1.0122538494489959
+0.03 0.13 0.26 0.14 
+0.29 0.13 0.23 0.13 
+0.03 0.13 0.24 0.13 
+0.03 0.13 0.24 0.13 
+0.03 0.13 0.01 0.13 
+0.29 0.13 0.01 0.11 
+0.29 0.13 0.01 0.11 
+0.03 0.13 0.01 0.12 
+ab.vision.ABObject[x=512,y=305,width=3,height=38] Stone : 0.1891
+ab.vision.ABObject[x=523,y=283,width=9,height=8] Ice : 0.2184
+ab.vision.ABObject[x=512,y=301,width=41,height=2] Stone : 0.1802
+ab.vision.ABObject[x=518,y=295,width=35,height=3] Stone : 0.1776
+ab.vision.ABObject[x=595,y=268,width=2,height=36] Stone : 0.0376
+ab.vision.ABObject[x=595,y=246,width=8,height=10] Ice : 0.0807
+ab.vision.ABObject[x=600,y=237,width=9,height=8] Ice : 0.0802
+ab.vision.ABObject[x=596,y=259,width=41,height=2] Stone : 0.0364
+BEST : ab.vision.ABObject[x=523,y=283,width=9,height=8] Ice
+distance 4.2782384801702715
+velocity 2.5092548652760356
+Shooting Completed
+
+scale factor changed to: 1.0163943445427346
+0.04 0.14 0.33 0.16 
+0.04 0.14 0.31 0.15 
+0.04 0.14 0.32 0.15 
+0.04 0.14 0.01 0.15 
+0.40 0.14 0.01 0.13 
+0.40 0.14 0.01 0.13 
+0.04 0.14 0.01 0.13 
+ab.vision.ABObject[x=513,y=303,width=3,height=40] Stone : 0.2425
+ab.vision.ABObject[x=514,y=295,width=41,height=2] Stone : 0.2274
+ab.vision.ABObject[x=516,y=300,width=39,height=3] Stone : 0.2307
+ab.vision.ABObject[x=597,y=268,width=3,height=37] Stone : 0.045
+ab.vision.ABObject[x=597,y=236,width=15,height=20] Ice : 0.1054
+ab.vision.ABObject[x=607,y=246,width=12,height=10] Ice : 0.1056
+ab.vision.ABObject[x=599,y=259,width=40,height=2] Stone : 0.0435
+BEST : ab.vision.ABObject[x=513,y=303,width=3,height=40] Stone
+distance 4.129448432190021
+velocity 2.6555995539638264
+Shooting Completed
+
+scale factor changed to: 1.005646864890832
+0.03 0.10 0.00 0.11 
+0.27 0.10 0.00 0.12 
+0.03 0.10 0.00 0.12 
+0.03 0.10 0.01 0.11 
+0.03 0.10 0.17 0.10 
+0.27 0.10 0.16 0.09 
+0.03 0.10 0.18 0.10 
+0.27 0.10 0.15 0.08 
+0.03 0.10 0.16 0.09 
+0.03 0.10 0.16 0.09 
+ab.vision.ABObject[x=519,y=315,width=26,height=25] Stone : 0.0312
+ab.vision.ABObject[x=540,y=339,width=4,height=3] Ice : 0.0738
+ab.vision.ABObject[x=527,y=325,width=33,height=18] Stone : 0.0314
+ab.vision.ABObject[x=545,y=307,width=40,height=5] Stone : 0.0308
+ab.vision.ABObject[x=597,y=268,width=3,height=37] Stone : 0.1309
+ab.vision.ABObject[x=597,y=246,width=9,height=10] Ice : 0.1619
+ab.vision.ABObject[x=603,y=268,width=3,height=35] Stone : 0.133
+ab.vision.ABObject[x=602,y=237,width=9,height=8] Ice : 0.1598
+ab.vision.ABObject[x=599,y=259,width=40,height=2] Stone : 0.1227
+ab.vision.ABObject[x=604,y=264,width=35,height=3] Stone : 0.1245
+BEST : ab.vision.ABObject[x=597,y=246,width=9,height=10] Ice
+distance 4.98234642924201
+velocity 1.9580141624485778
+Shooting Completed
+
+scale factor changed to: 1.0038860275154413
+0.04 0.11 0.01 0.12 
+0.37 0.11 0.01 0.12 
+0.04 0.11 0.01 0.12 
+0.04 0.11 0.01 0.11 
+0.04 0.11 0.46 0.10 
+0.04 0.11 0.47 0.10 
+0.37 0.11 0.01 0.10 
+0.04 0.11 0.00 0.11 
+0.04 0.11 0.00 0.11 
+ab.vision.ABObject[x=519,y=315,width=25,height=25] Stone : 0.0396
+ab.vision.ABObject[x=540,y=339,width=4,height=3] Ice : 0.0979
+ab.vision.ABObject[x=527,y=325,width=33,height=17] Stone : 0.0399
+ab.vision.ABObject[x=546,y=307,width=38,height=5] Stone : 0.0396
+ab.vision.ABObject[x=597,y=268,width=2,height=41] Stone : 0.3087
+ab.vision.ABObject[x=603,y=268,width=3,height=35] Stone : 0.3125
+ab.vision.ABObject[x=645,y=285,width=6,height=7] Ice : 0.0972
+ab.vision.ABObject[x=649,y=298,width=33,height=15] Stone : 0.032
+ab.vision.ABObject[x=653,y=308,width=26,height=26] Stone : 0.0325
+BEST : ab.vision.ABObject[x=603,y=268,width=3,height=35] Stone
+distance 5.44552489062844
+velocity 1.5269447447623565
+Shooting Completed
+
+scale factor changed to: 1.007136834131188
+0.13 0.13 0.03 0.13 
+0.13 0.13 0.03 0.13 
+0.13 0.13 0.03 0.13 
+0.13 0.13 0.03 0.12 
+0.13 0.13 0.89 0.11 
+0.13 0.13 0.00 0.13 
+0.13 0.13 0.00 0.12 
+0.13 0.13 0.00 0.13 
+ab.vision.ABObject[x=518,y=310,width=23,height=32] Stone : 0.0653
+ab.vision.ABObject[x=527,y=325,width=32,height=17] Stone : 0.0658
+ab.vision.ABObject[x=546,y=311,width=34,height=10] Stone : 0.0659
+ab.vision.ABObject[x=546,y=306,width=36,height=9] Stone : 0.0658
+ab.vision.ABObject[x=594,y=268,width=5,height=37] Stone : 0.5832
+ab.vision.ABObject[x=651,y=313,width=3,height=4] Stone : 0.0514
+ab.vision.ABObject[x=648,y=297,width=32,height=17] Stone : 0.051
+ab.vision.ABObject[x=652,y=307,width=26,height=27] Stone : 0.0515
+BEST : ab.vision.ABObject[x=594,y=268,width=5,height=37] Stone
+Randomly changing to java.awt.Point[x=600,y=275]
+distance 5.63561012622437
+velocity 2.2713363140014415
+no sling detected, can not execute the shot, will re-segement the image
+Restart
+ restart the level 
+Zooming out
+0.01 0.07 0.15 0.08 
+0.13 0.07 0.13 0.07 
+0.01 0.07 0.15 0.08 
+0.13 0.07 0.13 0.07 
+0.13 0.07 0.13 0.06 
+0.01 0.07 0.14 0.07 
+0.13 0.07 0.00 0.06 
+0.01 0.07 0.14 0.07 
+0.13 0.07 0.00 0.06 
+0.01 0.07 0.00 0.07 
+0.13 0.07 0.00 0.06 
+0.01 0.07 0.00 0.07 
+0.13 0.07 0.00 0.06 
+0.01 0.07 0.00 0.06 
+0.01 0.07 0.00 0.06 
+ab.vision.ABObject[x=510,y=305,width=5,height=35] Stone : 0.106
+ab.vision.ABObject[x=512,y=284,width=10,height=8] Ice : 0.1179
+ab.vision.ABObject[x=520,y=305,width=2,height=40] Stone : 0.1096
+ab.vision.ABObject[x=516,y=270,width=10,height=10] Ice : 0.1157
+ab.vision.ABObject[x=523,y=262,width=8,height=8] Ice : 0.1144
+ab.vision.ABObject[x=512,y=301,width=40,height=2] Stone : 0.1017
+ab.vision.ABObject[x=528,y=251,width=8,height=8] Ice : 0.0392
+ab.vision.ABObject[x=517,y=295,width=37,height=3] Stone : 0.1002
+ab.vision.ABObject[x=535,y=262,width=9,height=8] Ice : 0.0395
+ab.vision.ABObject[x=595,y=268,width=2,height=36] Stone : 0.0198
+ab.vision.ABObject[x=595,y=246,width=8,height=10] Ice : 0.039
+ab.vision.ABObject[x=601,y=268,width=2,height=41] Stone : 0.0199
+ab.vision.ABObject[x=600,y=237,width=9,height=8] Ice : 0.0388
+ab.vision.ABObject[x=596,y=259,width=41,height=2] Stone : 0.0192
+ab.vision.ABObject[x=602,y=264,width=36,height=3] Stone : 0.0193
+BEST : ab.vision.ABObject[x=512,y=284,width=10,height=8] Ice
+distance 4.205215352733993
+velocity 2.5079170697231667
+Shooting Completed
+
+scale factor changed to: 0.9891919805655387
+0.02 0.10 0.20 0.11 
+0.18 0.10 0.18 0.10 
+0.02 0.10 0.21 0.11 
+0.02 0.10 0.19 0.10 
+0.02 0.10 0.19 0.10 
+0.18 0.10 0.01 0.11 
+0.18 0.10 0.01 0.09 
+0.18 0.10 0.01 0.10 
+0.02 0.10 0.01 0.10 
+0.18 0.10 0.01 0.08 
+ab.vision.ABObject[x=513,y=305,width=3,height=38] Stone : 0.1478
+ab.vision.ABObject[x=513,y=284,width=8,height=8] Ice : 0.1636
+ab.vision.ABObject[x=521,y=305,width=3,height=40] Stone : 0.1519
+ab.vision.ABObject[x=514,y=295,width=41,height=3] Stone : 0.1384
+ab.vision.ABObject[x=513,y=301,width=42,height=2] Stone : 0.1404
+ab.vision.ABObject[x=540,y=305,width=6,height=40] Ice : 0.059
+ab.vision.ABObject[x=540,y=273,width=9,height=7] Ice : 0.0569
+ab.vision.ABObject[x=537,y=282,width=19,height=10] Ice : 0.0573
+ab.vision.ABObject[x=595,y=268,width=2,height=36] Stone : 0.0287
+ab.vision.ABObject[x=595,y=246,width=8,height=10] Ice : 0.0559
+BEST : ab.vision.ABObject[x=513,y=284,width=8,height=8] Ice
+Randomly changing to java.awt.Point[x=508,y=276]
+distance 4.361176650933781
+velocity 2.406125635500017
+Shooting Completed
+
+scale factor changed to: 0.9828433705645665
+0.04 0.14 0.25 0.15 
+0.04 0.14 0.26 0.15 
+0.04 0.14 0.23 0.14 
+0.04 0.14 0.24 0.14 
+0.40 0.14 0.01 0.15 
+0.40 0.14 0.01 0.15 
+0.04 0.14 0.01 0.13 
+ab.vision.ABObject[x=513,y=304,width=3,height=39] Stone : 0.1898
+ab.vision.ABObject[x=521,y=305,width=3,height=40] Stone : 0.1955
+ab.vision.ABObject[x=514,y=295,width=41,height=2] Stone : 0.178
+ab.vision.ABObject[x=516,y=300,width=39,height=3] Stone : 0.1805
+ab.vision.ABObject[x=540,y=305,width=6,height=40] Ice : 0.1071
+ab.vision.ABObject[x=547,y=309,width=5,height=24] Ice : 0.1068
+ab.vision.ABObject[x=597,y=268,width=3,height=37] Stone : 0.0422
+BEST : ab.vision.ABObject[x=521,y=305,width=3,height=40] Stone
+distance 4.958554144059682
+velocity 2.521111930303259
+Shooting Completed
+
+scale factor changed to: 1.0126576659155984
+0.03 0.13 0.01 0.14 
+0.03 0.13 0.01 0.13 
+0.29 0.13 0.01 0.14 
+0.03 0.13 0.01 0.14 
+0.03 0.13 0.26 0.12 
+0.29 0.13 0.24 0.11 
+0.29 0.13 0.23 0.10 
+0.03 0.13 0.24 0.11 
+ab.vision.ABObject[x=513,y=305,width=3,height=37] Stone : 0.0386
+ab.vision.ABObject[x=549,y=304,width=15,height=2] Stone : 0.0382
+ab.vision.ABObject[x=542,y=319,width=36,height=25] Ice : 0.0838
+ab.vision.ABObject[x=551,y=310,width=36,height=5] Stone : 0.0386
+ab.vision.ABObject[x=597,y=268,width=3,height=38] Stone : 0.1903
+ab.vision.ABObject[x=597,y=246,width=8,height=10] Ice : 0.2178
+ab.vision.ABObject[x=602,y=237,width=9,height=8] Ice : 0.2148
+ab.vision.ABObject[x=599,y=259,width=40,height=2] Stone : 0.1778
+BEST : ab.vision.ABObject[x=597,y=246,width=8,height=10] Ice
+distance 5.192221707086078
+velocity 2.095672508190887
+Shooting Completed
+
+scale factor changed to: 1.007787520729107
+0.04 0.11 0.01 0.12 
+0.04 0.11 0.01 0.11 
+0.37 0.11 0.01 0.12 
+0.04 0.11 0.01 0.12 
+0.37 0.11 0.24 0.11 
+0.04 0.11 0.25 0.11 
+0.04 0.11 0.25 0.11 
+0.04 0.11 0.23 0.10 
+0.04 0.11 0.01 0.10 
+ab.vision.ABObject[x=513,y=305,width=3,height=37] Stone : 0.0363
+ab.vision.ABObject[x=549,y=304,width=15,height=3] Stone : 0.0359
+ab.vision.ABObject[x=542,y=319,width=36,height=25] Ice : 0.0946
+ab.vision.ABObject[x=551,y=310,width=36,height=5] Stone : 0.0363
+ab.vision.ABObject[x=582,y=296,width=9,height=8] Ice : 0.2314
+ab.vision.ABObject[x=599,y=268,width=10,height=36] Stone : 0.1806
+ab.vision.ABObject[x=604,y=269,width=10,height=35] Stone : 0.1839
+ab.vision.ABObject[x=607,y=259,width=41,height=2] Stone : 0.1661
+ab.vision.ABObject[x=613,y=264,width=35,height=3] Stone : 0.0349
+BEST : ab.vision.ABObject[x=582,y=296,width=9,height=8] Ice
+distance 5.062669188247213
+velocity 2.4513577105396376
+Shooting Completed
+
+scale factor changed to: 1.0054962123368618
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+Total Score: 369600
+Shooting Completed
+
+scale factor changed to: 1.0019307872179892
+distance 5.384981106861593
+velocity 2.416440583977838
+no sling detected, can not execute the shot, will re-segement the image
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+Total Score: 428580
+0.01 0.13 0.23 0.14 
+0.14 0.13 0.23 0.14 
+0.14 0.13 0.23 0.13 
+0.14 0.13 0.22 0.13 
+0.14 0.13 0.07 0.12 
+0.14 0.13 0.01 0.11 
+0.14 0.13 0.01 0.11 
+0.14 0.13 0.01 0.12 
+ab.vision.ABObject[x=579,y=346,width=3,height=20] Stone : 0.1714
+ab.vision.ABObject[x=580,y=341,width=19,height=2] Ice : 0.194
+ab.vision.ABObject[x=592,y=318,width=4,height=21] Ice : 0.1892
+ab.vision.ABObject[x=592,y=312,width=20,height=4] Ice : 0.1842
+ab.vision.ABObject[x=605,y=292,width=2,height=19] Ice : 0.0948
+ab.vision.ABObject[x=607,y=278,width=7,height=7] Ice : 0.0555
+ab.vision.ABObject[x=615,y=264,width=5,height=21] Ice : 0.0552
+ab.vision.ABObject[x=607,y=285,width=42,height=5] Ice : 0.0557
+BEST : ab.vision.ABObject[x=580,y=341,width=19,height=2] Ice
+distance 5.413285036399572
+velocity 1.2230979715051606
+Shooting Completed
+
+scale factor changed to: 1.014037449104111
+0.09 0.09 0.01 0.10 
+0.09 0.09 0.01 0.10 
+0.09 0.09 0.09 0.10 
+0.09 0.09 0.09 0.09 
+0.09 0.09 0.09 0.09 
+0.09 0.09 0.10 0.09 
+0.09 0.09 0.30 0.09 
+0.09 0.09 0.29 0.09 
+0.09 0.09 0.01 0.09 
+0.09 0.09 0.01 0.09 
+0.09 0.09 0.01 0.08 
+ab.vision.ABObject[x=522,y=372,width=8,height=7] Ice : 0.0419
+ab.vision.ABObject[x=550,y=369,width=10,height=8] Ice : 0.042
+ab.vision.ABObject[x=569,y=359,width=12,height=6] Ice : 0.0906
+ab.vision.ABObject[x=577,y=349,width=10,height=7] Ice : 0.0911
+ab.vision.ABObject[x=568,y=339,width=37,height=18] Ice : 0.0915
+ab.vision.ABObject[x=594,y=345,width=20,height=13] Ice : 0.0947
+ab.vision.ABObject[x=611,y=333,width=9,height=19] Ice : 0.2144
+ab.vision.ABObject[x=621,y=328,width=8,height=9] Ice : 0.2105
+ab.vision.ABObject[x=635,y=317,width=10,height=20] Ice : 0.0414
+ab.vision.ABObject[x=643,y=319,width=9,height=19] Ice : 0.0414
+ab.vision.ABObject[x=647,y=291,width=4,height=20] Ice : 0.0404
+BEST : ab.vision.ABObject[x=611,y=333,width=9,height=19] Ice
+distance 5.964727407882862
+velocity 2.561504539183238
+Shooting Completed
+
+scale factor changed to: 1.0287914056218943
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+Total Score: 482130
+0.02 0.09 0.01 0.10 
+0.02 0.09 0.01 0.10 
+0.21 0.09 0.06 0.10 
+0.21 0.09 0.18 0.10 
+0.02 0.09 0.06 0.09 
+0.02 0.09 0.01 0.10 
+0.02 0.09 0.16 0.08 
+0.21 0.09 0.17 0.09 
+0.02 0.09 0.17 0.08 
+0.21 0.09 0.18 0.09 
+0.02 0.09 0.01 0.08 
+ab.vision.ABObject[x=532,y=323,width=3,height=10] Stone : 0.0284
+ab.vision.ABObject[x=530,y=334,width=21,height=8] Stone : 0.0287
+ab.vision.ABObject[x=544,y=306,width=4,height=10] Ice : 0.0929
+ab.vision.ABObject[x=550,y=306,width=4,height=9] Ice : 0.1655
+ab.vision.ABObject[x=545,y=293,width=21,height=9] Stone : 0.0599
+ab.vision.ABObject[x=545,y=317,width=22,height=8] Stone : 0.0284
+ab.vision.ABObject[x=560,y=249,width=3,height=9] Stone : 0.1215
+ab.vision.ABObject[x=560,y=266,width=10,height=21] Ice : 0.1608
+ab.vision.ABObject[x=560,y=259,width=44,height=4] Stone : 0.1242
+ab.vision.ABObject[x=560,y=266,width=46,height=27] Ice : 0.1635
+ab.vision.ABObject[x=601,y=249,width=3,height=9] Stone : 0.0262
+BEST : ab.vision.ABObject[x=550,y=306,width=4,height=9] Ice
+distance 4.145014750833256
+velocity 1.0919361547831663
+Shooting Completed
+
+scale factor changed to: 1.0054410733176624
+0.03 0.10 0.01 0.11 
+0.03 0.10 0.01 0.12 
+0.27 0.10 0.07 0.11 
+0.03 0.10 0.07 0.10 
+0.03 0.10 0.01 0.11 
+0.27 0.10 0.21 0.09 
+0.03 0.10 0.20 0.09 
+0.27 0.10 0.22 0.10 
+0.03 0.10 0.20 0.09 
+0.03 0.10 0.01 0.09 
+ab.vision.ABObject[x=532,y=323,width=4,height=8] Stone : 0.0323
+ab.vision.ABObject[x=530,y=334,width=21,height=7] Stone : 0.0326
+ab.vision.ABObject[x=544,y=305,width=5,height=10] Ice : 0.1126
+ab.vision.ABObject[x=545,y=294,width=22,height=8] Stone : 0.0708
+ab.vision.ABObject[x=545,y=317,width=22,height=8] Stone : 0.0324
+ab.vision.ABObject[x=561,y=266,width=9,height=21] Ice : 0.1952
+ab.vision.ABObject[x=570,y=255,width=8,height=2] Stone : 0.147
+ab.vision.ABObject[x=560,y=267,width=47,height=26] Ice : 0.1985
+ab.vision.ABObject[x=562,y=259,width=44,height=4] Stone : 0.1487
+ab.vision.ABObject[x=602,y=249,width=4,height=9] Stone : 0.0299
+BEST : ab.vision.ABObject[x=560,y=267,width=47,height=26] Ice
+distance 4.815212515448505
+velocity 1.2121726242203976
+Shooting Completed
+
+scale factor changed to: 1.0063543049688115
+0.04 0.10 0.01 0.11 
+0.04 0.10 0.01 0.11 
+0.25 0.10 0.07 0.10 
+0.25 0.10 0.22 0.10 
+0.04 0.10 0.01 0.10 
+0.04 0.10 0.07 0.10 
+0.04 0.10 0.20 0.08 
+0.25 0.10 0.21 0.09 
+0.04 0.10 0.20 0.08 
+0.04 0.10 0.00 0.12 
+ab.vision.ABObject[x=532,y=323,width=2,height=10] Stone : 0.0336
+ab.vision.ABObject[x=529,y=334,width=23,height=7] Stone : 0.0339
+ab.vision.ABObject[x=544,y=306,width=4,height=9] Ice : 0.1075
+ab.vision.ABObject[x=551,y=306,width=4,height=9] Ice : 0.1959
+ab.vision.ABObject[x=544,y=317,width=21,height=7] Stone : 0.0337
+ab.vision.ABObject[x=545,y=293,width=22,height=9] Stone : 0.0721
+ab.vision.ABObject[x=571,y=255,width=8,height=3] Stone : 0.1484
+ab.vision.ABObject[x=561,y=267,width=46,height=26] Ice : 0.1936
+ab.vision.ABObject[x=562,y=260,width=47,height=2] Stone : 0.15
+ab.vision.ABObject[x=753,y=376,width=9,height=5] Stone : 0.0313
+BEST : ab.vision.ABObject[x=551,y=306,width=4,height=9] Ice
+Shooting Completed
+
+scale factor changed to: 1.0130496722944304
+0.25 0.11 0.17 0.11 
+0.04 0.11 0.01 0.12 
+0.04 0.11 0.17 0.11 
+0.04 0.11 0.01 0.12 
+0.25 0.11 0.17 0.11 
+0.04 0.11 0.15 0.09 
+0.25 0.11 0.17 0.10 
+0.04 0.11 0.16 0.10 
+0.04 0.11 0.01 0.12 
+ab.vision.ABObject[x=550,y=306,width=4,height=9] Ice : 0.1696
+ab.vision.ABObject[x=544,y=317,width=21,height=7] Stone : 0.0357
+ab.vision.ABObject[x=547,y=294,width=21,height=7] Stone : 0.1323
+ab.vision.ABObject[x=530,y=329,width=54,height=12] Stone : 0.0361
+ab.vision.ABObject[x=557,y=306,width=9,height=9] Ice : 0.1741
+ab.vision.ABObject[x=571,y=255,width=14,height=4] Stone : 0.1234
+ab.vision.ABObject[x=562,y=266,width=46,height=27] Ice : 0.1678
+ab.vision.ABObject[x=564,y=260,width=44,height=3] Stone : 0.1246
+ab.vision.ABObject[x=576,y=334,width=20,height=8] Stone : 0.0363
+BEST : ab.vision.ABObject[x=557,y=306,width=9,height=9] Ice
+Randomly changing to java.awt.Point[x=563,y=313]
+Shooting Completed
+
+scale factor changed to: 1.005822697243792
+0.04 0.10 0.01 0.12 
+0.04 0.10 0.01 0.10 
+0.04 0.10 0.01 0.11 
+0.04 0.10 0.19 0.10 
+0.25 0.10 0.19 0.10 
+0.04 0.10 0.17 0.08 
+0.04 0.10 0.18 0.08 
+0.25 0.10 0.06 0.09 
+0.25 0.10 0.19 0.09 
+0.04 0.10 0.00 0.12 
+ab.vision.ABObject[x=495,y=374,width=7,height=7] Stone : 0.0341
+ab.vision.ABObject[x=544,y=317,width=21,height=7] Stone : 0.033
+ab.vision.ABObject[x=530,y=328,width=54,height=13] Stone : 0.0334
+ab.vision.ABObject[x=548,y=294,width=21,height=7] Stone : 0.1427
+ab.vision.ABObject[x=556,y=306,width=5,height=9] Ice : 0.1813
+ab.vision.ABObject[x=573,y=254,width=9,height=4] Stone : 0.1324
+ab.vision.ABObject[x=565,y=259,width=39,height=3] Stone : 0.1336
+ab.vision.ABObject[x=576,y=282,width=21,height=3] Wood : 0.1022
+ab.vision.ABObject[x=564,y=265,width=46,height=28] Ice : 0.176
+ab.vision.ABObject[x=753,y=376,width=9,height=5] Stone : 0.0312
+BEST : ab.vision.ABObject[x=556,y=306,width=5,height=9] Ice
+Randomly changing to java.awt.Point[x=551,y=314]
+distance 4.238252960272983
+velocity 2.5922864728518857
+no sling detected, can not execute the shot, will re-segement the image
+Restart
+ restart the level 
+Zooming out
+0.04 0.10 0.01 0.11 
+0.04 0.10 0.01 0.12 
+0.25 0.10 0.07 0.11 
+0.04 0.10 0.07 0.10 
+0.04 0.10 0.01 0.11 
+0.04 0.10 0.20 0.09 
+0.25 0.10 0.21 0.09 
+0.04 0.10 0.20 0.09 
+0.25 0.10 0.22 0.10 
+0.04 0.10 0.01 0.09 
+ab.vision.ABObject[x=532,y=323,width=3,height=10] Stone : 0.0341
+ab.vision.ABObject[x=529,y=334,width=22,height=8] Stone : 0.0345
+ab.vision.ABObject[x=544,y=306,width=4,height=10] Ice : 0.1083
+ab.vision.ABObject[x=546,y=293,width=20,height=9] Stone : 0.0728
+ab.vision.ABObject[x=545,y=317,width=22,height=8] Stone : 0.0343
+ab.vision.ABObject[x=560,y=249,width=3,height=9] Stone : 0.1478
+ab.vision.ABObject[x=561,y=266,width=9,height=21] Ice : 0.1912
+ab.vision.ABObject[x=560,y=259,width=44,height=4] Stone : 0.151
+ab.vision.ABObject[x=560,y=266,width=46,height=27] Ice : 0.1943
+ab.vision.ABObject[x=601,y=249,width=3,height=9] Stone : 0.0318
+BEST : ab.vision.ABObject[x=560,y=266,width=46,height=27] Ice
+distance 5.025282394639699
+velocity 2.329350235911988
+Shooting Completed
+
+scale factor changed to: 1.008462118064661
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+Total Score: 531220
+Shooting Completed
+
+scale factor changed to: 0.9963776885249261
+Shooting Completed
+
+scale factor changed to: 0.9963776885249261
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+Total Score: 596860
+0.02 0.06 0.10 0.06 
+0.02 0.06 0.10 0.06 
+0.02 0.06 0.01 0.07 
+0.01 0.06 0.11 0.07 
+0.08 0.06 0.10 0.06 
+0.08 0.06 0.10 0.06 
+0.08 0.06 0.11 0.06 
+0.08 0.06 0.01 0.07 
+0.08 0.06 0.30 0.06 
+0.08 0.06 0.01 0.06 
+0.08 0.06 0.01 0.07 
+0.08 0.06 0.01 0.07 
+0.08 0.06 0.01 0.06 
+0.08 0.06 0.01 0.06 
+0.02 0.06 0.01 0.06 
+0.08 0.06 0.01 0.06 
+ab.vision.ABObject[x=506,y=295,width=6,height=7] Wood : 0.0746
+ab.vision.ABObject[x=522,y=295,width=7,height=6] Wood : 0.0757
+ab.vision.ABObject[x=516,y=362,width=19,height=7] Wood : 0.024
+ab.vision.ABObject[x=516,y=341,width=21,height=7] Stone : 0.0798
+ab.vision.ABObject[x=506,y=304,width=40,height=4] Ice : 0.0883
+ab.vision.ABObject[x=518,y=320,width=19,height=8] Ice : 0.0908
+ab.vision.ABObject[x=518,y=330,width=19,height=9] Ice : 0.0921
+ab.vision.ABObject[x=518,y=351,width=19,height=8] Ice : 0.0356
+ab.vision.ABObject[x=539,y=294,width=8,height=9] Ice : 0.2086
+ab.vision.ABObject[x=585,y=294,width=8,height=10] Ice : 0.0341
+ab.vision.ABObject[x=585,y=332,width=8,height=9] Ice : 0.0353
+ab.vision.ABObject[x=582,y=343,width=20,height=8] Ice : 0.0355
+ab.vision.ABObject[x=584,y=321,width=19,height=10] Ice : 0.0349
+ab.vision.ABObject[x=584,y=296,width=41,height=23] Ice : 0.0343
+ab.vision.ABObject[x=616,y=312,width=6,height=7] Wood : 0.0227
+ab.vision.ABObject[x=617,y=296,width=7,height=8] Ice : 0.034
+BEST : ab.vision.ABObject[x=539,y=294,width=8,height=9] Ice
+distance 5.349451662951968
+velocity 1.2583376106770863
+Shooting Completed
+
+scale factor changed to: 1.001403469004152
+distance 4.824485028236231
+velocity 1.080597506841595
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+Total Score: 642870
+distance 5.393374193719662
+velocity 1.2477908385691308
+Shooting Completed
+
+scale factor changed to: 1.0164604250257259
+0.13 0.13 0.01 0.14 
+0.13 0.13 0.01 0.14 
+0.13 0.13 0.47 0.13 
+0.13 0.13 0.45 0.12 
+0.13 0.13 0.01 0.12 
+0.13 0.13 0.01 0.11 
+0.13 0.13 0.01 0.11 
+0.13 0.13 0.01 0.12 
+ab.vision.ABObject[x=511,y=374,width=8,height=7] Wood : 0.0594
+ab.vision.ABObject[x=528,y=374,width=6,height=7] Wood : 0.0597
+ab.vision.ABObject[x=565,y=346,width=8,height=19] Wood : 0.3339
+ab.vision.ABObject[x=569,y=308,width=15,height=36] Wood : 0.3184
+ab.vision.ABObject[x=611,y=309,width=2,height=18] Wood : 0.058
+ab.vision.ABObject[x=625,y=286,width=7,height=8] Wood : 0.0565
+ab.vision.ABObject[x=610,y=297,width=42,height=3] Wood : 0.0569
+ab.vision.ABObject[x=611,y=303,width=40,height=3] Wood : 0.0572
+BEST : ab.vision.ABObject[x=565,y=346,width=8,height=19] Wood
+distance 5.4528235572973
+velocity 1.176236350839487
+Shooting Completed
+
+scale factor changed to: 1.0064665275061357
+distance 5.959733303485442
+velocity 2.7233147208281623
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+Total Score: 696670
+0.01 0.09 0.01 0.12 
+0.11 0.09 0.20 0.11 
+0.11 0.09 0.18 0.10 
+0.11 0.09 0.17 0.08 
+0.01 0.09 0.01 0.12 
+0.11 0.09 0.19 0.10 
+0.11 0.09 0.17 0.08 
+0.11 0.09 0.01 0.07 
+0.11 0.09 0.01 0.08 
+0.11 0.09 0.01 0.07 
+0.11 0.09 0.06 0.07 
+ab.vision.ABObject[x=533,y=360,width=7,height=22] Stone : 0.0288
+ab.vision.ABObject[x=546,y=299,width=2,height=43] Wood : 0.1586
+ab.vision.ABObject[x=547,y=283,width=7,height=7] Wood : 0.1509
+ab.vision.ABObject[x=548,y=231,width=7,height=8] Wood : 0.1402
+ab.vision.ABObject[x=537,y=345,width=55,height=14] Stone : 0.0286
+ab.vision.ABObject[x=545,y=294,width=44,height=2] Wood : 0.1564
+ab.vision.ABObject[x=548,y=243,width=45,height=3] Wood : 0.1424
+ab.vision.ABObject[x=572,y=202,width=7,height=8] Wood : 0.0406
+ab.vision.ABObject[x=575,y=231,width=7,height=8] Wood : 0.0415
+ab.vision.ABObject[x=575,y=220,width=8,height=7] Wood : 0.0412
+ab.vision.ABObject[x=571,y=213,width=44,height=3] Wood : 0.0708
+BEST : ab.vision.ABObject[x=546,y=299,width=2,height=43] Wood
+distance 4.5055576890482465
+velocity 1.026584109895967
+Shooting Completed
+
+scale factor changed to: 1.0034678826724972
+0.08 0.07 0.00 0.08 
+0.08 0.07 0.00 0.07 
+0.08 0.07 0.00 0.08 
+0.01 0.07 0.00 0.08 
+0.01 0.07 0.00 0.07 
+0.08 0.07 0.04 0.07 
+0.01 0.07 0.00 0.07 
+0.08 0.07 0.04 0.07 
+0.08 0.07 0.13 0.06 
+0.08 0.07 0.14 0.07 
+0.08 0.07 0.12 0.05 
+0.08 0.07 0.12 0.06 
+0.08 0.07 0.14 0.07 
+0.08 0.07 0.13 0.06 
+0.08 0.07 0.12 0.05 
+ab.vision.ABObject[x=433,y=373,width=8,height=9] Wood : 0.0321
+ab.vision.ABObject[x=435,y=361,width=7,height=8] Wood : 0.0319
+ab.vision.ABObject[x=503,y=373,width=8,height=9] Wood : 0.0322
+ab.vision.ABObject[x=533,y=360,width=7,height=22] Stone : 0.0195
+ab.vision.ABObject[x=536,y=350,width=21,height=7] Stone : 0.0192
+ab.vision.ABObject[x=554,y=321,width=17,height=17] Wood : 0.0537
+ab.vision.ABObject[x=547,y=345,width=44,height=2] Stone : 0.0192
+ab.vision.ABObject[x=566,y=305,width=14,height=24] Wood : 0.0541
+ab.vision.ABObject[x=582,y=311,width=7,height=8] Wood : 0.1073
+ab.vision.ABObject[x=592,y=298,width=5,height=44] Wood : 0.1113
+ab.vision.ABObject[x=591,y=248,width=8,height=19] Wood : 0.0987
+ab.vision.ABObject[x=592,y=269,width=9,height=21] Wood : 0.1023
+ab.vision.ABObject[x=598,y=298,width=5,height=44] Wood : 0.1146
+ab.vision.ABObject[x=596,y=293,width=44,height=3] Wood : 0.1069
+ab.vision.ABObject[x=597,y=242,width=44,height=3] Wood : 0.0971
+BEST : ab.vision.ABObject[x=598,y=298,width=5,height=44] Wood
+distance 4.485133360271817
+velocity 2.454214604186383
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+ Level 17 Score: 48600 
+Total Score: 745270
+0.10 0.10 0.24 0.12 
+0.10 0.10 0.26 0.12 
+0.10 0.10 0.24 0.11 
+0.10 0.10 0.23 0.11 
+0.10 0.10 0.01 0.10 
+0.10 0.10 0.01 0.09 
+0.10 0.10 0.01 0.10 
+0.10 0.10 0.01 0.09 
+0.10 0.10 0.01 0.09 
+0.10 0.10 0.01 0.08 
+ab.vision.ABObject[x=576,y=360,width=8,height=22] Wood : 0.1847
+ab.vision.ABObject[x=589,y=359,width=8,height=23] Wood : 0.1962
+ab.vision.ABObject[x=589,y=348,width=22,height=10] Wood : 0.1842
+ab.vision.ABObject[x=590,y=335,width=22,height=10] Wood : 0.1767
+ab.vision.ABObject[x=605,y=312,width=10,height=22] Wood : 0.0443
+ab.vision.ABObject[x=622,y=283,width=11,height=22] Wood : 0.0432
+ab.vision.ABObject[x=620,y=309,width=23,height=10] Wood : 0.0439
+ab.vision.ABObject[x=625,y=273,width=22,height=10] Wood : 0.0427
+ab.vision.ABObject[x=644,y=263,width=22,height=12] Wood : 0.0423
+ab.vision.ABObject[x=652,y=243,width=21,height=17] Wood : 0.0418
+BEST : ab.vision.ABObject[x=589,y=359,width=8,height=23] Wood
+distance 4.030997225708546
+velocity 0.9940331495855985
+Shooting Completed
+
+scale factor changed to: 1.0008060131366225
+0.10 0.10 0.01 0.12 
+0.10 0.10 0.01 0.12 
+0.10 0.10 0.02 0.12 
+0.10 0.10 0.21 0.11 
+0.10 0.10 0.18 0.09 
+0.10 0.10 0.20 0.10 
+0.10 0.10 0.19 0.10 
+0.10 0.10 0.17 0.09 
+0.10 0.10 0.01 0.08 
+0.10 0.10 0.01 0.08 
+ab.vision.ABObject[x=575,y=360,width=9,height=22] Wood : 0.0448
+ab.vision.ABObject[x=588,y=359,width=8,height=22] Wood : 0.0449
+ab.vision.ABObject[x=601,y=361,width=9,height=21] Wood : 0.0527
+ab.vision.ABObject[x=616,y=334,width=9,height=21] Wood : 0.1685
+ab.vision.ABObject[x=622,y=283,width=11,height=22] Wood : 0.1477
+ab.vision.ABObject[x=617,y=321,width=23,height=10] Wood : 0.1601
+ab.vision.ABObject[x=620,y=309,width=23,height=10] Wood : 0.1543
+ab.vision.ABObject[x=625,y=273,width=22,height=10] Wood : 0.144
+ab.vision.ABObject[x=644,y=263,width=22,height=12] Wood : 0.0418
+ab.vision.ABObject[x=652,y=243,width=21,height=17] Wood : 0.0412
+BEST : ab.vision.ABObject[x=616,y=334,width=9,height=21] Wood
+distance 4.738397783902772
+velocity 2.636561998028075
+Shooting Completed
+
+scale factor changed to: 0.9964009130503441
+0.10 0.10 0.01 0.12 
+0.10 0.10 0.01 0.12 
+0.10 0.10 0.01 0.11 
+0.10 0.10 0.01 0.12 
+0.10 0.10 0.01 0.11 
+0.10 0.10 0.23 0.09 
+0.10 0.10 0.25 0.09 
+0.10 0.10 0.24 0.09 
+0.10 0.10 0.22 0.08 
+0.10 0.10 0.01 0.08 
+ab.vision.ABObject[x=575,y=360,width=8,height=21] Wood : 0.0456
+ab.vision.ABObject[x=588,y=360,width=8,height=21] Wood : 0.0456
+ab.vision.ABObject[x=600,y=336,width=9,height=21] Wood : 0.0451
+ab.vision.ABObject[x=600,y=361,width=10,height=20] Wood : 0.0457
+ab.vision.ABObject[x=623,y=331,width=14,height=22] Wood : 0.0453
+ab.vision.ABObject[x=642,y=267,width=22,height=9] Wood : 0.1787
+ab.vision.ABObject[x=648,y=293,width=22,height=8] Wood : 0.1925
+ab.vision.ABObject[x=649,y=281,width=22,height=9] Wood : 0.1853
+ab.vision.ABObject[x=654,y=245,width=18,height=18] Wood : 0.1735
+ab.vision.ABObject[x=674,y=254,width=22,height=10] Wood : 0.0426
+BEST : ab.vision.ABObject[x=648,y=293,width=22,height=8] Wood
+distance 5.32860504792459
+velocity 2.3887461529824883
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+ Level 17 Score: 48600 
+ Level 18 Score: 53550 
+Total Score: 798820
+0.13 0.10 0.09 0.11 
+0.13 0.10 0.01 0.11 
+0.13 0.10 0.09 0.10 
+0.13 0.10 0.09 0.10 
+0.13 0.10 0.09 0.10 
+0.03 0.10 0.09 0.10 
+0.13 0.10 0.26 0.09 
+0.03 0.10 0.28 0.10 
+0.03 0.10 0.01 0.10 
+0.13 0.10 0.01 0.09 
+ab.vision.ABObject[x=526,y=316,width=19,height=41] Ice : 0.0974
+ab.vision.ABObject[x=535,y=349,width=9,height=8] Ice : 0.0515
+ab.vision.ABObject[x=553,y=320,width=11,height=11] Ice : 0.099
+ab.vision.ABObject[x=547,y=287,width=29,height=35] Ice : 0.0972
+ab.vision.ABObject[x=560,y=313,width=4,height=4] Ice : 0.0984
+ab.vision.ABObject[x=568,y=304,width=3,height=19] Wood : 0.0806
+ab.vision.ABObject[x=579,y=281,width=19,height=11] Ice : 0.2006
+ab.vision.ABObject[x=574,y=299,width=30,height=30] Wood : 0.1933
+ab.vision.ABObject[x=607,y=287,width=5,height=42] Wood : 0.0323
+ab.vision.ABObject[x=604,y=278,width=41,height=16] Ice : 0.0496
+BEST : ab.vision.ABObject[x=579,y=281,width=19,height=11] Ice
+distance 5.215095543986169
+velocity 1.2868489634755156
+Shooting Completed
+
+scale factor changed to: 1.0012519367775454
+0.02 0.06 0.05 0.06 
+0.02 0.06 0.00 0.06 
+0.08 0.06 0.05 0.06 
+0.08 0.06 0.05 0.06 
+0.08 0.06 0.05 0.06 
+0.02 0.06 0.00 0.07 
+0.08 0.06 0.05 0.06 
+0.08 0.06 0.16 0.06 
+0.08 0.06 0.14 0.05 
+0.08 0.06 0.15 0.06 
+0.08 0.06 0.14 0.05 
+0.08 0.06 0.14 0.06 
+0.08 0.06 0.00 0.06 
+0.02 0.06 0.00 0.05 
+0.02 0.06 0.00 0.06 
+0.02 0.06 0.00 0.06 
+0.02 0.06 0.00 0.06 
+ab.vision.ABObject[x=527,y=315,width=14,height=42] Ice : 0.0453
+ab.vision.ABObject[x=534,y=349,width=10,height=8] Ice : 0.0208
+ab.vision.ABObject[x=547,y=336,width=4,height=20] Wood : 0.0564
+ab.vision.ABObject[x=542,y=323,width=27,height=31] Wood : 0.0566
+ab.vision.ABObject[x=548,y=319,width=17,height=9] Wood : 0.056
+ab.vision.ABObject[x=556,y=353,width=4,height=4] Ice : 0.0209
+ab.vision.ABObject[x=561,y=326,width=17,height=11] Wood : 0.0573
+ab.vision.ABObject[x=581,y=315,width=4,height=41] Wood : 0.1214
+ab.vision.ABObject[x=585,y=293,width=6,height=6] Wood : 0.1124
+ab.vision.ABObject[x=575,y=300,width=29,height=27] Wood : 0.1165
+ab.vision.ABObject[x=593,y=291,width=6,height=3] Wood : 0.112
+ab.vision.ABObject[x=588,y=297,width=17,height=10] Wood : 0.1141
+ab.vision.ABObject[x=607,y=286,width=6,height=44] Wood : 0.0303
+ab.vision.ABObject[x=617,y=293,width=3,height=4] Ice : 0.0199
+ab.vision.ABObject[x=649,y=306,width=4,height=4] Ice : 0.0201
+ab.vision.ABObject[x=659,y=307,width=4,height=4] Ice : 0.0201
+ab.vision.ABObject[x=650,y=294,width=40,height=23] Ice : 0.02
+BEST : ab.vision.ABObject[x=581,y=315,width=4,height=41] Wood
+distance 5.410601399965554
+velocity 2.4918158821629177
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+ Level 17 Score: 48600 
+ Level 18 Score: 53550 
+ Level 19 Score: 34260 
+Total Score: 833080
+0.11 0.09 0.06 0.10 
+0.11 0.09 0.06 0.09 
+0.11 0.09 0.06 0.10 
+0.11 0.09 0.06 0.10 
+0.11 0.09 0.06 0.09 
+0.01 0.09 0.06 0.09 
+0.11 0.09 0.18 0.09 
+0.11 0.09 0.06 0.09 
+0.11 0.09 0.18 0.08 
+0.11 0.09 0.19 0.09 
+0.01 0.09 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0779
+ab.vision.ABObject[x=571,y=325,width=8,height=8] Wood : 0.0773
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.0782
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0793
+ab.vision.ABObject[x=580,y=312,width=8,height=9] Wood : 0.0768
+ab.vision.ABObject[x=583,y=325,width=22,height=9] Stone : 0.0613
+ab.vision.ABObject[x=599,y=299,width=6,height=2] Wood : 0.1501
+ab.vision.ABObject[x=585,y=304,width=47,height=4] Wood : 0.0765
+ab.vision.ABObject[x=616,y=274,width=8,height=20] Wood : 0.1477
+ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood : 0.1504
+ab.vision.ABObject[x=625,y=258,width=14,height=13] Stone : 0.0245
+BEST : ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood
+distance 5.003312207166129
+velocity 1.182915485048432
+Shooting Completed
+
+scale factor changed to: 1.0068359959857143
+0.14 0.13 0.08 0.14 
+0.14 0.13 0.08 0.13 
+0.14 0.13 0.08 0.13 
+0.14 0.13 0.07 0.12 
+0.14 0.13 0.24 0.13 
+0.01 0.13 0.22 0.12 
+0.14 0.13 0.23 0.12 
+0.14 0.13 0.01 0.11 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0989
+ab.vision.ABObject[x=564,y=337,width=21,height=8] Wood : 0.0991
+ab.vision.ABObject[x=571,y=325,width=9,height=8] Wood : 0.0981
+ab.vision.ABObject[x=580,y=311,width=8,height=9] Wood : 0.0973
+ab.vision.ABObject[x=609,y=324,width=8,height=8] Wood : 0.1943
+ab.vision.ABObject[x=611,y=297,width=17,height=13] Stone : 0.1651
+ab.vision.ABObject[x=607,y=316,width=46,height=5] Wood : 0.1914
+ab.vision.ABObject[x=624,y=283,width=23,height=15] Wood : 0.0557
+BEST : ab.vision.ABObject[x=609,y=324,width=8,height=8] Wood
+distance 5.061550491968612
+velocity 2.63768645318602
+Shooting Completed
+
+scale factor changed to: 1.0163306503955036
+0.24 0.20 0.11 0.21 
+0.24 0.20 0.11 0.20 
+0.24 0.20 0.11 0.21 
+0.02 0.20 0.34 0.19 
+0.24 0.20 0.33 0.18 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.1552
+ab.vision.ABObject[x=571,y=324,width=8,height=9] Wood : 0.154
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.1557
+ab.vision.ABObject[x=594,y=317,width=6,height=3] Stone : 0.2509
+ab.vision.ABObject[x=603,y=293,width=11,height=20] Wood : 0.2843
+BEST : ab.vision.ABObject[x=603,y=293,width=11,height=20] Wood
+distance 4.137590067817255
+velocity 2.563742529359456
+Shooting Completed
+
+scale factor changed to: 1.0069372762324709
+0.16 0.11 0.05 0.12 
+0.16 0.11 0.05 0.11 
+0.16 0.11 0.06 0.12 
+0.02 0.11 0.17 0.11 
+0.02 0.11 0.17 0.11 
+0.02 0.11 0.16 0.10 
+0.16 0.11 0.17 0.11 
+0.16 0.11 0.17 0.11 
+0.16 0.11 0.01 0.10 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0862
+ab.vision.ABObject[x=571,y=324,width=8,height=9] Wood : 0.0855
+ab.vision.ABObject[x=564,y=337,width=23,height=9] Wood : 0.0864
+ab.vision.ABObject[x=594,y=317,width=6,height=3] Stone : 0.1271
+ab.vision.ABObject[x=596,y=313,width=7,height=8] Stone : 0.1269
+ab.vision.ABObject[x=604,y=295,width=15,height=14] Stone : 0.1246
+ab.vision.ABObject[x=609,y=324,width=7,height=8] Wood : 0.1553
+ab.vision.ABObject[x=608,y=317,width=44,height=3] Wood : 0.1531
+ab.vision.ABObject[x=651,y=297,width=21,height=10] Wood : 0.055
+BEST : ab.vision.ABObject[x=609,y=324,width=7,height=8] Wood
+distance 5.228442957359953
+velocity 2.639564940673357
+Shooting Completed
+
+scale factor changed to: 1.01819399598929
+0.20 0.17 0.24 0.18 
+0.20 0.17 0.24 0.17 
+0.20 0.17 0.24 0.17 
+0.02 0.17 0.24 0.16 
+0.20 0.17 0.02 0.15 
+0.20 0.17 0.02 0.16 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.2146
+ab.vision.ABObject[x=565,y=337,width=21,height=9] Wood : 0.2165
+ab.vision.ABObject[x=572,y=324,width=8,height=8] Wood : 0.2136
+ab.vision.ABObject[x=620,y=313,width=14,height=15] Stone : 0.1863
+ab.vision.ABObject[x=651,y=297,width=20,height=10] Wood : 0.0841
+ab.vision.ABObject[x=659,y=312,width=8,height=7] Wood : 0.085
+BEST : ab.vision.ABObject[x=565,y=337,width=21,height=9] Wood
+distance 4.690098721592699
+velocity 2.789792448547311
+Shooting Completed
+Restart
+ restart the level 
+Zooming out
+0.12 0.11 0.09 0.13 
+0.12 0.11 0.09 0.12 
+0.12 0.11 0.09 0.12 
+0.12 0.11 0.09 0.11 
+0.12 0.11 0.09 0.11 
+0.12 0.11 0.26 0.10 
+0.12 0.11 0.27 0.11 
+0.01 0.11 0.01 0.10 
+0.12 0.11 0.01 0.10 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.1022
+ab.vision.ABObject[x=571,y=325,width=8,height=8] Wood : 0.1015
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.1027
+ab.vision.ABObject[x=580,y=312,width=8,height=9] Wood : 0.1008
+ab.vision.ABObject[x=585,y=305,width=47,height=3] Wood : 0.1005
+ab.vision.ABObject[x=616,y=274,width=8,height=21] Wood : 0.2035
+ab.vision.ABObject[x=612,y=298,width=20,height=2] Wood : 0.2073
+ab.vision.ABObject[x=625,y=258,width=14,height=14] Stone : 0.0308
+ab.vision.ABObject[x=646,y=273,width=8,height=22] Wood : 0.0507
+BEST : ab.vision.ABObject[x=612,y=298,width=20,height=2] Wood
+distance 4.280097463191165
+velocity 2.5791472289111916
+Shooting Completed
+
+scale factor changed to: 1.0068621692593958
+0.14 0.13 0.09 0.14 
+0.14 0.13 0.09 0.13 
+0.14 0.13 0.09 0.13 
+0.14 0.13 0.09 0.12 
+0.14 0.13 0.27 0.12 
+0.14 0.13 0.09 0.12 
+0.01 0.13 0.27 0.12 
+0.14 0.13 0.01 0.12 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.1085
+ab.vision.ABObject[x=564,y=337,width=23,height=8] Wood : 0.109
+ab.vision.ABObject[x=572,y=325,width=8,height=8] Wood : 0.1078
+ab.vision.ABObject[x=581,y=313,width=8,height=8] Wood : 0.107
+ab.vision.ABObject[x=602,y=297,width=8,height=3] Wood : 0.2133
+ab.vision.ABObject[x=589,y=304,width=44,height=4] Wood : 0.1066
+ab.vision.ABObject[x=612,y=288,width=15,height=13] Stone : 0.1907
+ab.vision.ABObject[x=649,y=298,width=21,height=8] Wood : 0.0572
+BEST : ab.vision.ABObject[x=602,y=297,width=8,height=3] Wood
+distance 4.138259028760699
+velocity 2.5446366818450086
+Shooting Completed
+
+scale factor changed to: 0.9920394467529274
+0.08 0.07 0.04 0.07 
+0.08 0.07 0.04 0.06 
+0.08 0.07 0.04 0.07 
+0.08 0.07 0.04 0.07 
+0.08 0.07 0.04 0.06 
+0.01 0.07 0.12 0.06 
+0.01 0.07 0.13 0.07 
+0.08 0.07 0.13 0.07 
+0.08 0.07 0.14 0.07 
+0.08 0.07 0.00 0.06 
+0.08 0.07 0.13 0.07 
+0.08 0.07 0.13 0.06 
+0.08 0.07 0.00 0.06 
+0.08 0.07 0.00 0.07 
+0.01 0.07 0.00 0.07 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.0539
+ab.vision.ABObject[x=567,y=320,width=10,height=12] Wood : 0.0533
+ab.vision.ABObject[x=565,y=337,width=21,height=8] Wood : 0.0541
+ab.vision.ABObject[x=567,y=349,width=22,height=8] Wood : 0.0548
+ab.vision.ABObject[x=577,y=317,width=11,height=9] Wood : 0.0534
+ab.vision.ABObject[x=594,y=313,width=7,height=10] Stone : 0.0906
+ab.vision.ABObject[x=592,y=322,width=19,height=19] Stone : 0.093
+ab.vision.ABObject[x=618,y=325,width=9,height=9] Wood : 0.1066
+ab.vision.ABObject[x=606,y=340,width=44,height=15] Wood : 0.1117
+ab.vision.ABObject[x=626,y=306,width=7,height=3] Wood : 0.031
+ab.vision.ABObject[x=607,y=335,width=46,height=16] Wood : 0.1102
+ab.vision.ABObject[x=620,y=318,width=44,height=13] Wood : 0.1053
+ab.vision.ABObject[x=623,y=312,width=42,height=12] Wood : 0.0312
+ab.vision.ABObject[x=665,y=336,width=7,height=8] Wood : 0.0317
+ab.vision.ABObject[x=747,y=364,width=16,height=13] Stone : 0.0193
+BEST : ab.vision.ABObject[x=606,y=340,width=44,height=15] Wood
+distance 4.863239519543328
+velocity 2.673020658929384
+Shooting Completed
+
+scale factor changed to: 0.9920394467529274
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.17 0.08 
+0.01 0.08 0.17 0.07 
+0.01 0.08 0.16 0.07 
+0.10 0.08 0.18 0.08 
+0.10 0.08 0.18 0.08 
+0.10 0.08 0.01 0.08 
+0.10 0.08 0.01 0.07 
+0.10 0.08 0.01 0.07 
+0.10 0.08 0.01 0.07 
+0.10 0.08 0.01 0.08 
+0.01 0.08 0.00 0.08 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.066
+ab.vision.ABObject[x=568,y=349,width=21,height=8] Wood : 0.0671
+ab.vision.ABObject[x=600,y=340,width=21,height=16] Wood : 0.1387
+ab.vision.ABObject[x=604,y=322,width=22,height=13] Stone : 0.1182
+ab.vision.ABObject[x=621,y=306,width=8,height=12] Stone : 0.1147
+ab.vision.ABObject[x=614,y=340,width=33,height=31] Wood : 0.1449
+ab.vision.ABObject[x=620,y=338,width=34,height=30] Wood : 0.1425
+ab.vision.ABObject[x=635,y=333,width=7,height=9] Wood : 0.0374
+ab.vision.ABObject[x=638,y=312,width=9,height=2] Wood : 0.0367
+ab.vision.ABObject[x=629,y=324,width=47,height=6] Wood : 0.0371
+ab.vision.ABObject[x=631,y=317,width=46,height=6] Wood : 0.0369
+ab.vision.ABObject[x=669,y=333,width=12,height=10] Wood : 0.0373
+ab.vision.ABObject[x=788,y=369,width=16,height=12] Stone : 0.0225
+BEST : ab.vision.ABObject[x=614,y=340,width=33,height=31] Wood
+Randomly changing to java.awt.Point[x=611,y=331]
+distance 5.241599432402279
+velocity 2.6028767495943828
+Shooting Completed
+
+scale factor changed to: 1.001949190748776
+0.16 0.11 0.08 0.11 
+0.16 0.11 0.08 0.11 
+0.16 0.11 0.27 0.11 
+0.02 0.11 0.25 0.11 
+0.16 0.11 0.28 0.12 
+0.02 0.11 0.01 0.10 
+0.16 0.11 0.01 0.11 
+0.16 0.11 0.01 0.10 
+0.02 0.11 0.01 0.12 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.1013
+ab.vision.ABObject[x=568,y=349,width=20,height=9] Wood : 0.1031
+ab.vision.ABObject[x=600,y=340,width=21,height=17] Wood : 0.2134
+ab.vision.ABObject[x=607,y=323,width=21,height=12] Stone : 0.1807
+ab.vision.ABObject[x=614,y=341,width=35,height=29] Wood : 0.2229
+ab.vision.ABObject[x=631,y=307,width=10,height=6] Stone : 0.0316
+ab.vision.ABObject[x=630,y=326,width=46,height=6] Wood : 0.0571
+ab.vision.ABObject[x=635,y=319,width=45,height=6] Wood : 0.0568
+ab.vision.ABObject[x=788,y=369,width=16,height=12] Stone : 0.033
+BEST : ab.vision.ABObject[x=614,y=341,width=35,height=29] Wood
+distance 5.055840796185306
+velocity 2.701829800080642
+Shooting Completed
+Restart
+ restart the level 
+Zooming out
+0.11 0.09 0.08 0.10 
+0.11 0.09 0.08 0.10 
+0.11 0.09 0.08 0.10 
+0.11 0.09 0.08 0.10 
+0.11 0.09 0.08 0.09 
+0.01 0.09 0.08 0.10 
+0.11 0.09 0.08 0.09 
+0.11 0.09 0.22 0.08 
+0.11 0.09 0.23 0.09 
+0.01 0.09 0.01 0.08 
+0.11 0.09 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0861
+ab.vision.ABObject[x=571,y=325,width=8,height=8] Wood : 0.0856
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.0866
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0879
+ab.vision.ABObject[x=580,y=312,width=8,height=9] Wood : 0.085
+ab.vision.ABObject[x=583,y=325,width=22,height=9] Stone : 0.0698
+ab.vision.ABObject[x=585,y=305,width=47,height=3] Wood : 0.0847
+ab.vision.ABObject[x=616,y=274,width=8,height=21] Wood : 0.1716
+ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood : 0.1747
+ab.vision.ABObject[x=625,y=258,width=14,height=14] Stone : 0.0253
+ab.vision.ABObject[x=646,y=273,width=8,height=22] Wood : 0.0428
+BEST : ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood
+distance 5.019749516852583
+velocity 2.4852418089776225
+Shooting Completed
+
+scale factor changed to: 0.9910257416827013
+0.10 0.08 0.07 0.09 
+0.10 0.08 0.07 0.09 
+0.10 0.08 0.07 0.09 
+0.10 0.08 0.07 0.09 
+0.10 0.08 0.07 0.08 
+0.01 0.08 0.06 0.08 
+0.01 0.08 0.20 0.08 
+0.10 0.08 0.19 0.08 
+0.10 0.08 0.20 0.08 
+0.10 0.08 0.01 0.08 
+0.10 0.08 0.01 0.08 
+0.10 0.08 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0758
+ab.vision.ABObject[x=571,y=325,width=8,height=8] Wood : 0.0753
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.0761
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0773
+ab.vision.ABObject[x=580,y=312,width=8,height=9] Wood : 0.0747
+ab.vision.ABObject[x=577,y=290,width=18,height=12] Stone : 0.058
+ab.vision.ABObject[x=593,y=312,width=10,height=9] Stone : 0.1392
+ab.vision.ABObject[x=597,y=287,width=22,height=18] Wood : 0.1508
+ab.vision.ABObject[x=608,y=309,width=47,height=4] Wood : 0.1544
+ab.vision.ABObject[x=644,y=323,width=7,height=8] Wood : 0.0399
+ab.vision.ABObject[x=648,y=298,width=21,height=8] Wood : 0.0391
+ab.vision.ABObject[x=659,y=311,width=8,height=8] Wood : 0.0394
+BEST : ab.vision.ABObject[x=608,y=309,width=47,height=4] Wood
+distance 4.7557679522114205
+velocity 2.5195500800516903
+Shooting Completed
+
+scale factor changed to: 0.9966797511327221
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.05 0.08 
+0.10 0.08 0.05 0.08 
+0.01 0.08 0.05 0.08 
+0.01 0.08 0.05 0.07 
+0.01 0.08 0.16 0.08 
+0.10 0.08 0.15 0.07 
+0.10 0.08 0.16 0.08 
+0.10 0.08 0.16 0.07 
+0.10 0.08 0.01 0.07 
+0.10 0.08 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.066
+ab.vision.ABObject[x=572,y=325,width=8,height=8] Wood : 0.0655
+ab.vision.ABObject[x=565,y=337,width=22,height=8] Wood : 0.0663
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0671
+ab.vision.ABObject[x=582,y=312,width=9,height=8] Wood : 0.0651
+ab.vision.ABObject[x=583,y=325,width=23,height=8] Stone : 0.0511
+ab.vision.ABObject[x=587,y=291,width=17,height=10] Stone : 0.0488
+ab.vision.ABObject[x=594,y=311,width=10,height=10] Stone : 0.1131
+ab.vision.ABObject[x=615,y=286,width=8,height=22] Wood : 0.1256
+ab.vision.ABObject[x=607,y=316,width=47,height=4] Wood : 0.1296
+ab.vision.ABObject[x=609,y=309,width=46,height=4] Wood : 0.1281
+ab.vision.ABObject[x=649,y=297,width=21,height=9] Wood : 0.0367
+ab.vision.ABObject[x=659,y=311,width=7,height=8] Wood : 0.037
+BEST : ab.vision.ABObject[x=607,y=316,width=47,height=4] Wood
+Randomly changing to java.awt.Point[x=616,y=316]
+distance 4.7202578504117945
+velocity 2.554795556671322
+Shooting Completed
+
+scale factor changed to: 1.0078326989039728
+0.12 0.11 0.09 0.12 
+0.12 0.11 0.09 0.11 
+0.12 0.11 0.09 0.12 
+0.12 0.11 0.09 0.12 
+0.12 0.11 0.09 0.11 
+0.12 0.11 0.27 0.11 
+0.12 0.11 0.27 0.11 
+0.01 0.11 0.01 0.10 
+0.12 0.11 0.01 0.11 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.1003
+ab.vision.ABObject[x=572,y=324,width=8,height=9] Wood : 0.0997
+ab.vision.ABObject[x=565,y=337,width=22,height=8] Wood : 0.1009
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.1023
+ab.vision.ABObject[x=582,y=312,width=9,height=8] Wood : 0.099
+ab.vision.ABObject[x=610,y=310,width=42,height=3] Wood : 0.2066
+ab.vision.ABObject[x=608,y=316,width=46,height=3] Wood : 0.2087
+ab.vision.ABObject[x=645,y=289,width=14,height=13] Stone : 0.0313
+ab.vision.ABObject[x=659,y=311,width=8,height=8] Wood : 0.0513
+BEST : ab.vision.ABObject[x=608,y=316,width=46,height=3] Wood
+Randomly changing to java.awt.Point[x=599,y=315]
+distance 4.444101263688436
+velocity 2.6255344280047006
+Shooting Completed
+
+scale factor changed to: 1.0067037605698723
+0.02 0.13 0.08 0.14 
+0.16 0.13 0.09 0.12 
+0.16 0.13 0.09 0.13 
+0.16 0.13 0.09 0.13 
+0.02 0.13 0.09 0.12 
+0.16 0.13 0.28 0.12 
+0.16 0.13 0.27 0.12 
+0.16 0.13 0.01 0.12 
+ab.vision.ABObject[x=496,y=366,width=10,height=15] Stone : 0.0832
+ab.vision.ABObject[x=572,y=324,width=8,height=10] Wood : 0.1087
+ab.vision.ABObject[x=566,y=337,width=20,height=8] Wood : 0.1099
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.1114
+ab.vision.ABObject[x=585,y=325,width=22,height=9] Stone : 0.0868
+ab.vision.ABObject[x=610,y=323,width=9,height=9] Wood : 0.2217
+ab.vision.ABObject[x=610,y=316,width=45,height=4] Wood : 0.2181
+ab.vision.ABObject[x=659,y=311,width=8,height=8] Wood : 0.0601
+BEST : ab.vision.ABObject[x=610,y=323,width=9,height=9] Wood
+distance 5.060983750108251
+velocity 2.6332920362521794
+Shooting Completed
+Restart
+ restart the level 
+Zooming out
+0.14 0.13 0.09 0.14 
+0.14 0.13 0.09 0.13 
+0.14 0.13 0.09 0.14 
+0.14 0.13 0.09 0.13 
+0.14 0.13 0.09 0.12 
+0.14 0.13 0.26 0.11 
+0.14 0.13 0.27 0.12 
+0.01 0.13 0.01 0.11 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.1089
+ab.vision.ABObject[x=571,y=325,width=8,height=8] Wood : 0.1081
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.1093
+ab.vision.ABObject[x=580,y=312,width=8,height=9] Wood : 0.1073
+ab.vision.ABObject[x=585,y=305,width=47,height=3] Wood : 0.107
+ab.vision.ABObject[x=616,y=274,width=8,height=21] Wood : 0.2108
+ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood : 0.2146
+ab.vision.ABObject[x=625,y=258,width=14,height=14] Stone : 0.0339
+BEST : ab.vision.ABObject[x=612,y=297,width=20,height=3] Wood
+distance 4.508033757411122
+velocity 2.504847997003989
+Shooting Completed
+
+scale factor changed to: 0.9992207064312117
+0.11 0.08 0.05 0.09 
+0.11 0.08 0.05 0.09 
+0.11 0.08 0.05 0.09 
+0.11 0.08 0.05 0.09 
+0.11 0.08 0.05 0.08 
+0.01 0.08 0.05 0.09 
+0.01 0.08 0.16 0.08 
+0.11 0.08 0.15 0.08 
+0.11 0.08 0.05 0.08 
+0.01 0.08 0.15 0.08 
+0.11 0.08 0.16 0.08 
+0.11 0.08 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0696
+ab.vision.ABObject[x=572,y=325,width=9,height=8] Wood : 0.0691
+ab.vision.ABObject[x=565,y=337,width=22,height=8] Wood : 0.0699
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0708
+ab.vision.ABObject[x=581,y=312,width=8,height=9] Wood : 0.0686
+ab.vision.ABObject[x=583,y=325,width=24,height=9] Stone : 0.0531
+ab.vision.ABObject[x=594,y=314,width=9,height=6] Stone : 0.1158
+ab.vision.ABObject[x=602,y=297,width=8,height=3] Wood : 0.1298
+ab.vision.ABObject[x=588,y=304,width=45,height=4] Wood : 0.0684
+ab.vision.ABObject[x=614,y=288,width=14,height=13] Stone : 0.1126
+ab.vision.ABObject[x=608,y=309,width=46,height=4] Wood : 0.1324
+ab.vision.ABObject[x=649,y=298,width=22,height=8] Wood : 0.04
+BEST : ab.vision.ABObject[x=608,y=309,width=46,height=4] Wood
+distance 5.205779188770121
+velocity 2.5495534057426714
+Shooting Completed
+
+scale factor changed to: 0.9993154515461125
+0.12 0.09 0.09 0.10 
+0.12 0.09 0.09 0.09 
+0.12 0.09 0.09 0.09 
+0.12 0.09 0.09 0.10 
+0.12 0.09 0.09 0.09 
+0.01 0.09 0.26 0.09 
+0.12 0.09 0.27 0.09 
+0.01 0.09 0.01 0.09 
+0.01 0.09 0.01 0.09 
+0.12 0.09 0.01 0.09 
+0.12 0.09 0.01 0.08 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.0937
+ab.vision.ABObject[x=565,y=337,width=21,height=8] Wood : 0.0943
+ab.vision.ABObject[x=572,y=324,width=8,height=10] Wood : 0.0933
+ab.vision.ABObject[x=568,y=349,width=21,height=8] Wood : 0.0957
+ab.vision.ABObject[x=582,y=312,width=8,height=8] Wood : 0.0926
+ab.vision.ABObject[x=595,y=313,width=9,height=9] Stone : 0.1794
+ab.vision.ABObject[x=610,y=324,width=8,height=8] Wood : 0.2034
+ab.vision.ABObject[x=623,y=313,width=9,height=16] Stone : 0.0276
+ab.vision.ABObject[x=655,y=334,width=24,height=9] Stone : 0.028
+ab.vision.ABObject[x=659,y=323,width=20,height=8] Wood : 0.0464
+ab.vision.ABObject[x=660,y=297,width=20,height=10] Wood : 0.0456
+BEST : ab.vision.ABObject[x=610,y=324,width=8,height=8] Wood
+distance 4.893745383426378
+velocity 2.6099125830035814
+Shooting Completed
+
+scale factor changed to: 0.9966971032634966
+0.14 0.09 0.11 0.10 
+0.14 0.09 0.11 0.09 
+0.14 0.09 0.12 0.09 
+0.14 0.09 0.12 0.10 
+0.01 0.09 0.12 0.09 
+0.14 0.09 0.37 0.09 
+0.01 0.09 0.01 0.09 
+0.01 0.09 0.01 0.08 
+0.01 0.09 0.01 0.09 
+0.14 0.09 0.01 0.09 
+0.14 0.09 0.01 0.10 
+ab.vision.ABObject[x=554,y=349,width=9,height=8] Wood : 0.1126
+ab.vision.ABObject[x=572,y=324,width=8,height=9] Wood : 0.1122
+ab.vision.ABObject[x=565,y=337,width=22,height=9] Wood : 0.1136
+ab.vision.ABObject[x=568,y=349,width=21,height=8] Wood : 0.1152
+ab.vision.ABObject[x=585,y=325,width=21,height=8] Stone : 0.0928
+ab.vision.ABObject[x=602,y=336,width=44,height=3] Wood : 0.2641
+ab.vision.ABObject[x=625,y=313,width=12,height=15] Stone : 0.0294
+ab.vision.ABObject[x=658,y=310,width=10,height=7] Stone : 0.029
+ab.vision.ABObject[x=655,y=334,width=22,height=8] Stone : 0.0298
+ab.vision.ABObject[x=658,y=322,width=21,height=9] Wood : 0.0505
+ab.vision.ABObject[x=702,y=348,width=21,height=9] Wood : 0.0508
+BEST : ab.vision.ABObject[x=602,y=336,width=44,height=3] Wood
+distance 4.157609196767923
+velocity 2.6819847850817373
+Shooting Completed
+
+scale factor changed to: 0.9966971032634966
+0.11 0.08 0.09 0.08 
+0.11 0.08 0.09 0.08 
+0.11 0.08 0.09 0.08 
+0.01 0.08 0.09 0.07 
+0.01 0.08 0.28 0.07 
+0.11 0.08 0.29 0.08 
+0.11 0.08 0.01 0.08 
+0.11 0.08 0.01 0.08 
+0.01 0.08 0.01 0.07 
+0.11 0.08 0.01 0.08 
+0.01 0.08 0.01 0.08 
+0.11 0.08 0.01 0.07 
+0.11 0.08 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0893
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.09
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0914
+ab.vision.ABObject[x=584,y=328,width=22,height=10] Stone : 0.0742
+ab.vision.ABObject[x=610,y=326,width=14,height=12] Stone : 0.188
+ab.vision.ABObject[x=602,y=341,width=47,height=4] Wood : 0.2112
+ab.vision.ABObject[x=638,y=355,width=8,height=2] Wood : 0.042
+ab.vision.ABObject[x=641,y=360,width=3,height=21] Wood : 0.0425
+ab.vision.ABObject[x=657,y=310,width=10,height=7] Stone : 0.0238
+ab.vision.ABObject[x=640,y=347,width=47,height=4] Wood : 0.0414
+ab.vision.ABObject[x=655,y=334,width=22,height=9] Stone : 0.0245
+ab.vision.ABObject[x=657,y=322,width=21,height=9] Wood : 0.0407
+ab.vision.ABObject[x=702,y=348,width=21,height=9] Wood : 0.041
+BEST : ab.vision.ABObject[x=602,y=341,width=47,height=4] Wood
+Randomly changing to java.awt.Point[x=605,y=332]
+distance 4.681287945614878
+velocity 2.6679715096331633
+Shooting Completed
+
+scale factor changed to: 0.9966971032634966
+0.11 0.08 0.07 0.08 
+0.11 0.08 0.07 0.08 
+0.11 0.08 0.07 0.08 
+0.02 0.08 0.07 0.08 
+0.02 0.08 0.22 0.08 
+0.02 0.08 0.22 0.08 
+0.11 0.08 0.23 0.08 
+0.11 0.08 0.01 0.08 
+0.02 0.08 0.01 0.07 
+0.11 0.08 0.01 0.08 
+0.02 0.08 0.01 0.08 
+0.11 0.08 0.01 0.07 
+0.11 0.08 0.01 0.08 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0789
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.0793
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0805
+ab.vision.ABObject[x=585,y=330,width=12,height=7] Stone : 0.0644
+ab.vision.ABObject[x=603,y=331,width=4,height=3] Stone : 0.1532
+ab.vision.ABObject[x=611,y=327,width=15,height=11] Stone : 0.1545
+ab.vision.ABObject[x=603,y=342,width=46,height=3] Wood : 0.1752
+ab.vision.ABObject[x=638,y=355,width=9,height=2] Wood : 0.0416
+ab.vision.ABObject[x=656,y=310,width=10,height=7] Stone : 0.0247
+ab.vision.ABObject[x=640,y=347,width=47,height=3] Wood : 0.0411
+ab.vision.ABObject[x=655,y=334,width=23,height=9] Stone : 0.0254
+ab.vision.ABObject[x=657,y=322,width=21,height=9] Wood : 0.0405
+ab.vision.ABObject[x=702,y=348,width=21,height=9] Wood : 0.0408
+BEST : ab.vision.ABObject[x=603,y=342,width=46,height=3] Wood
+distance 4.557221204629158
+velocity 2.6975251180709043
+no sling detected, can not execute the shot, will re-segement the image
+Restart
+ restart the level 
+Zooming out
+0.09 0.07 0.05 0.08 
+0.09 0.07 0.05 0.07 
+0.09 0.07 0.05 0.08 
+0.09 0.07 0.05 0.08 
+0.09 0.07 0.04 0.07 
+0.01 0.07 0.05 0.08 
+0.01 0.07 0.14 0.07 
+0.09 0.07 0.13 0.07 
+0.09 0.07 0.05 0.07 
+0.09 0.07 0.13 0.06 
+0.09 0.07 0.13 0.07 
+0.09 0.07 0.14 0.07 
+0.01 0.07 0.00 0.06 
+0.09 0.07 0.00 0.06 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0594
+ab.vision.ABObject[x=572,y=325,width=9,height=8] Wood : 0.059
+ab.vision.ABObject[x=565,y=337,width=22,height=8] Wood : 0.0596
+ab.vision.ABObject[x=568,y=349,width=22,height=8] Wood : 0.0604
+ab.vision.ABObject[x=581,y=312,width=8,height=9] Wood : 0.0585
+ab.vision.ABObject[x=583,y=325,width=23,height=9] Stone : 0.0458
+ab.vision.ABObject[x=594,y=314,width=8,height=7] Stone : 0.1
+ab.vision.ABObject[x=600,y=299,width=9,height=2] Wood : 0.1115
+ab.vision.ABObject[x=586,y=304,width=48,height=4] Wood : 0.0583
+ab.vision.ABObject[x=616,y=273,width=10,height=21] Wood : 0.1096
+ab.vision.ABObject[x=612,y=297,width=21,height=3] Wood : 0.1117
+ab.vision.ABObject[x=607,y=310,width=47,height=4] Wood : 0.1138
+ab.vision.ABObject[x=625,y=257,width=15,height=14] Stone : 0.0191
+ab.vision.ABObject[x=646,y=273,width=10,height=21] Wood : 0.0334
+BEST : ab.vision.ABObject[x=607,y=310,width=47,height=4] Wood
+distance 4.577963993492116
+velocity 2.545871763168146
+Shooting Completed
+
+scale factor changed to: 0.9851941654555947
+0.07 0.06 0.04 0.06 
+0.07 0.06 0.04 0.05 
+0.07 0.06 0.04 0.06 
+0.07 0.06 0.04 0.06 
+0.07 0.06 0.04 0.05 
+0.01 0.06 0.04 0.05 
+0.01 0.06 0.12 0.05 
+0.07 0.06 0.13 0.06 
+0.07 0.06 0.12 0.05 
+0.07 0.06 0.12 0.05 
+0.07 0.06 0.13 0.06 
+0.07 0.06 0.13 0.06 
+0.01 0.06 0.00 0.05 
+0.07 0.06 0.00 0.05 
+0.01 0.06 0.00 0.06 
+0.07 0.06 0.00 0.05 
+0.07 0.06 0.00 0.06 
+0.07 0.06 0.00 0.06 
+ab.vision.ABObject[x=555,y=349,width=8,height=8] Wood : 0.0482
+ab.vision.ABObject[x=571,y=324,width=8,height=9] Wood : 0.0479
+ab.vision.ABObject[x=564,y=337,width=22,height=8] Wood : 0.0484
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0491
+ab.vision.ABObject[x=581,y=312,width=8,height=8] Wood : 0.0476
+ab.vision.ABObject[x=583,y=325,width=23,height=8] Stone : 0.0377
+ab.vision.ABObject[x=594,y=313,width=9,height=8] Stone : 0.0844
+ab.vision.ABObject[x=593,y=349,width=22,height=9] Wood : 0.1025
+ab.vision.ABObject[x=609,y=324,width=8,height=8] Wood : 0.0978
+ab.vision.ABObject[x=616,y=299,width=10,height=21] Wood : 0.0949
+ab.vision.ABObject[x=600,y=335,width=47,height=4] Wood : 0.1
+ab.vision.ABObject[x=601,y=342,width=47,height=3] Wood : 0.1018
+ab.vision.ABObject[x=627,y=304,width=17,height=12] Stone : 0.0156
+ab.vision.ABObject[x=645,y=324,width=8,height=8] Wood : 0.0268
+ab.vision.ABObject[x=656,y=334,width=23,height=9] Stone : 0.0161
+ab.vision.ABObject[x=658,y=322,width=20,height=9] Wood : 0.0267
+ab.vision.ABObject[x=676,y=354,width=8,height=2] Wood : 0.0272
+ab.vision.ABObject[x=748,y=373,width=20,height=8] Wood : 0.0273
+BEST : ab.vision.ABObject[x=593,y=349,width=22,height=9] Wood
+distance 4.726420327796122
+velocity 2.684269225866409
+Shooting Completed
+
+scale factor changed to: 0.9851941654555947
+0.08 0.06 0.05 0.07 
+0.08 0.06 0.05 0.06 
+0.01 0.06 0.05 0.06 
+0.08 0.06 0.05 0.07 
+0.01 0.06 0.05 0.06 
+0.08 0.06 0.15 0.07 
+0.08 0.06 0.14 0.06 
+0.08 0.06 0.14 0.06 
+0.08 0.06 0.15 0.06 
+0.08 0.06 0.15 0.06 
+0.01 0.06 0.00 0.06 
+0.08 0.06 0.00 0.06 
+0.01 0.06 0.00 0.06 
+0.08 0.06 0.00 0.06 
+0.08 0.06 0.00 0.07 
+0.08 0.06 0.00 0.07 
+ab.vision.ABObject[x=555,y=349,width=7,height=8] Wood : 0.0561
+ab.vision.ABObject[x=559,y=336,width=8,height=8] Wood : 0.0558
+ab.vision.ABObject[x=569,y=323,width=10,height=8] Stone : 0.043
+ab.vision.ABObject[x=568,y=349,width=21,height=9] Wood : 0.0572
+ab.vision.ABObject[x=584,y=323,width=9,height=23] Stone : 0.044
+ab.vision.ABObject[x=593,y=349,width=21,height=9] Wood : 0.1204
+ab.vision.ABObject[x=610,y=324,width=8,height=8] Wood : 0.115
+ab.vision.ABObject[x=615,y=299,width=9,height=20] Wood : 0.1115
+ab.vision.ABObject[x=600,y=335,width=47,height=4] Wood : 0.1176
+ab.vision.ABObject[x=601,y=342,width=47,height=3] Wood : 0.1197
+ab.vision.ABObject[x=627,y=304,width=17,height=11] Stone : 0.0177
+ab.vision.ABObject[x=644,y=323,width=9,height=9] Wood : 0.0307
+ab.vision.ABObject[x=654,y=334,width=23,height=9] Stone : 0.0183
+ab.vision.ABObject[x=656,y=322,width=22,height=9] Wood : 0.0306
+ab.vision.ABObject[x=676,y=354,width=8,height=2] Wood : 0.0311
+ab.vision.ABObject[x=748,y=373,width=20,height=8] Wood : 0.0312
+BEST : ab.vision.ABObject[x=593,y=349,width=21,height=9] Wood
+Randomly changing to java.awt.Point[x=588,y=357]
+distance 4.410060554426973
+velocity 2.726840713299155
+Shooting Completed
+
+scale factor changed to: 0.9851941654555947
+0.01 0.06 0.05 0.06 
+0.01 0.06 0.05 0.06 
+0.01 0.06 0.05 0.06 
+0.01 0.06 0.05 0.06 
+0.01 0.06 0.05 0.06 
+0.10 0.06 0.15 0.07 
+0.10 0.06 0.14 0.06 
+0.10 0.06 0.14 0.06 
+0.10 0.06 0.15 0.06 
+0.10 0.06 0.15 0.06 
+0.01 0.06 0.00 0.06 
+0.10 0.06 0.00 0.06 
+0.01 0.06 0.00 0.06 
+0.10 0.06 0.00 0.06 
+0.10 0.06 0.00 0.07 
+0.10 0.06 0.00 0.07 
+ab.vision.ABObject[x=572,y=336,width=4,height=3] Stone : 0.044
+ab.vision.ABObject[x=569,y=346,width=11,height=8] Stone : 0.0446
+ab.vision.ABObject[x=573,y=332,width=7,height=2] Stone : 0.0439
+ab.vision.ABObject[x=576,y=334,width=11,height=7] Stone : 0.0443
+ab.vision.ABObject[x=588,y=336,width=7,height=2] Stone : 0.0447
+ab.vision.ABObject[x=595,y=349,width=21,height=8] Wood : 0.1249
+ab.vision.ABObject[x=610,y=324,width=9,height=8] Wood : 0.1191
+ab.vision.ABObject[x=615,y=298,width=9,height=21] Wood : 0.1154
+ab.vision.ABObject[x=600,y=335,width=47,height=4] Wood : 0.1217
+ab.vision.ABObject[x=602,y=341,width=46,height=4] Wood : 0.1237
+ab.vision.ABObject[x=627,y=304,width=17,height=12] Stone : 0.0181
+ab.vision.ABObject[x=645,y=323,width=9,height=8] Wood : 0.0346
+ab.vision.ABObject[x=656,y=334,width=22,height=9] Stone : 0.0187
+ab.vision.ABObject[x=658,y=323,width=20,height=8] Wood : 0.0345
+ab.vision.ABObject[x=675,y=354,width=10,height=2] Wood : 0.035
+ab.vision.ABObject[x=748,y=373,width=20,height=8] Wood : 0.0328
+BEST : ab.vision.ABObject[x=595,y=349,width=21,height=8] Wood
+distance 4.09359390845219
+velocity 1.0622852454576042
+Shooting Completed
+
+scale factor changed to: 1.0007389399553366
+0.03 0.14 0.07 0.14 
+0.03 0.14 0.07 0.14 
+0.03 0.14 0.07 0.14 
+0.29 0.14 0.27 0.15 
+0.29 0.14 0.25 0.14 
+0.03 0.14 0.26 0.14 
+0.29 0.14 0.01 0.15 
+ab.vision.ABObject[x=572,y=334,width=4,height=5] Stone : 0.0806
+ab.vision.ABObject[x=570,y=346,width=10,height=9] Stone : 0.0814
+ab.vision.ABObject[x=573,y=332,width=7,height=2] Stone : 0.0805
+ab.vision.ABObject[x=642,y=360,width=3,height=21] Wood : 0.2458
+ab.vision.ABObject[x=647,y=334,width=20,height=14] Wood : 0.2313
+ab.vision.ABObject[x=653,y=342,width=20,height=19] Stone : 0.1921
+ab.vision.ABObject[x=748,y=373,width=20,height=8] Wood : 0.0883
+BEST : ab.vision.ABObject[x=642,y=360,width=3,height=21] Wood
+distance 5.6091791806495275
+velocity 2.7133107841807615
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+ Level 17 Score: 48600 
+ Level 18 Score: 53550 
+ Level 19 Score: 34260 
+ Level 20 Score: 42560 
+Total Score: 875640
+0.06 0.06 0.06 0.08 
+0.06 0.06 0.06 0.07 
+0.06 0.06 0.17 0.07 
+0.06 0.06 0.16 0.06 
+0.06 0.06 0.16 0.06 
+0.01 0.06 0.17 0.07 
+0.06 0.06 0.01 0.06 
+0.06 0.06 0.16 0.06 
+0.01 0.06 0.01 0.06 
+0.06 0.06 0.01 0.06 
+0.06 0.06 0.01 0.06 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.00 0.05 
+0.06 0.06 0.00 0.06 
+0.06 0.06 0.00 0.06 
+ab.vision.ABObject[x=443,y=330,width=9,height=19] Ice : 0.0617
+ab.vision.ABObject[x=443,y=319,width=20,height=8] Ice : 0.0614
+ab.vision.ABObject[x=454,y=296,width=9,height=20] Ice : 0.1301
+ab.vision.ABObject[x=467,y=238,width=11,height=8] Ice : 0.1187
+ab.vision.ABObject[x=473,y=254,width=3,height=41] Ice : 0.1241
+ab.vision.ABObject[x=465,y=298,width=42,height=3] Wood : 0.1217
+ab.vision.ABObject[x=485,y=237,width=10,height=9] Ice : 0.0273
+ab.vision.ABObject[x=469,y=248,width=42,height=17] Ice : 0.121
+ab.vision.ABObject[x=504,y=254,width=3,height=42] Wood : 0.0191
+ab.vision.ABObject[x=502,y=237,width=9,height=9] Ice : 0.0272
+ab.vision.ABObject[x=527,y=226,width=5,height=41] Ice : 0.0273
+ab.vision.ABObject[x=526,y=209,width=8,height=9] Ice : 0.0266
+ab.vision.ABObject[x=544,y=208,width=7,height=10] Ice : 0.0265
+ab.vision.ABObject[x=527,y=219,width=42,height=4] Ice : 0.0267
+ab.vision.ABObject[x=561,y=209,width=9,height=8] Ice : 0.0265
+ab.vision.ABObject[x=603,y=237,width=9,height=9] Ice : 0.0271
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0271
+BEST : ab.vision.ABObject[x=454,y=296,width=9,height=20] Ice
+distance 3.6729368884019835
+velocity 0.7827177934837853
+Shooting Completed
+
+scale factor changed to: 1.011130489513524
+0.06 0.06 0.01 0.07 
+0.06 0.06 0.01 0.07 
+0.06 0.06 0.08 0.06 
+0.06 0.06 0.08 0.07 
+0.06 0.06 0.26 0.06 
+0.01 0.06 0.01 0.06 
+0.06 0.06 0.24 0.06 
+0.06 0.06 0.24 0.06 
+0.01 0.06 0.01 0.05 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.01 0.05 
+0.06 0.06 0.01 0.04 
+0.06 0.06 0.01 0.06 
+0.06 0.06 0.01 0.04 
+0.06 0.06 0.01 0.04 
+0.06 0.06 0.01 0.04 
+0.06 0.06 0.01 0.05 
+ab.vision.ABObject[x=314,y=372,width=9,height=9] Ice : 0.0288
+ab.vision.ABObject[x=388,y=372,width=7,height=8] Ice : 0.029
+ab.vision.ABObject[x=441,y=318,width=9,height=10] Ice : 0.0717
+ab.vision.ABObject[x=444,y=330,width=9,height=19] Ice : 0.073
+ab.vision.ABObject[x=469,y=308,width=5,height=41] Ice : 0.1829
+ab.vision.ABObject[x=482,y=285,width=7,height=10] Stone : 0.0189
+ab.vision.ABObject[x=467,y=303,width=41,height=3] Wood : 0.1702
+ab.vision.ABObject[x=467,y=297,width=42,height=3] Wood : 0.1674
+ab.vision.ABObject[x=490,y=275,width=7,height=8] Stone : 0.0186
+ab.vision.ABObject[x=480,y=243,width=29,height=35] Ice : 0.0271
+ab.vision.ABObject[x=505,y=253,width=4,height=42] Wood : 0.0274
+ab.vision.ABObject[x=527,y=226,width=5,height=41] Ice : 0.0268
+ab.vision.ABObject[x=526,y=209,width=8,height=9] Ice : 0.026
+ab.vision.ABObject[x=532,y=274,width=9,height=20] Ice : 0.0276
+ab.vision.ABObject[x=544,y=208,width=7,height=10] Ice : 0.026
+ab.vision.ABObject[x=526,y=219,width=43,height=4] Ice : 0.0262
+ab.vision.ABObject[x=561,y=209,width=9,height=8] Ice : 0.026
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0264
+BEST : ab.vision.ABObject[x=469,y=308,width=5,height=41] Ice
+Shooting Completed
+
+scale factor changed to: 1.011130489513524
+distance 3.9242364231385154
+velocity 2.8943395636092393
+Shooting Completed
+
+scale factor changed to: 1.011130489513524
+Randomly changing to java.awt.Point[x=488,y=338]
+distance 3.6663026903790317
+velocity 0.8431947796790251
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+Randomly changing to java.awt.Point[x=485,y=328]
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+0.04 0.06 0.00 0.08 
+0.04 0.06 0.00 0.08 
+0.01 0.06 0.00 0.08 
+0.01 0.06 0.00 0.07 
+0.13 0.06 0.04 0.07 
+0.13 0.06 0.04 0.07 
+0.13 0.06 0.14 0.07 
+0.04 0.06 0.12 0.04 
+0.04 0.06 0.13 0.06 
+0.13 0.06 0.14 0.07 
+0.04 0.06 0.12 0.05 
+0.04 0.06 0.12 0.05 
+0.04 0.06 0.13 0.06 
+0.13 0.06 0.00 0.06 
+0.04 0.06 0.00 0.04 
+0.04 0.06 0.00 0.05 
+ab.vision.ABObject[x=314,y=372,width=9,height=9] Ice : 0.0242
+ab.vision.ABObject[x=379,y=372,width=8,height=5] Ice : 0.0243
+ab.vision.ABObject[x=394,y=374,width=6,height=8] Stone : 0.02
+ab.vision.ABObject[x=450,y=340,width=9,height=7] Stone : 0.0195
+ab.vision.ABObject[x=471,y=308,width=11,height=34] Wood : 0.0616
+ab.vision.ABObject[x=480,y=315,width=27,height=31] Wood : 0.0626
+ab.vision.ABObject[x=519,y=319,width=7,height=7] Wood : 0.1197
+ab.vision.ABObject[x=522,y=209,width=8,height=9] Ice : 0.0893
+ab.vision.ABObject[x=521,y=284,width=10,height=20] Ice : 0.099
+ab.vision.ABObject[x=520,y=308,width=19,height=7] Wood : 0.1185
+ab.vision.ABObject[x=527,y=225,width=5,height=42] Ice : 0.0924
+ab.vision.ABObject[x=523,y=219,width=42,height=5] Ice : 0.0901
+ab.vision.ABObject[x=528,y=268,width=43,height=26] Ice : 0.0975
+ab.vision.ABObject[x=547,y=275,width=7,height=18] Wood : 0.0383
+ab.vision.ABObject[x=557,y=208,width=9,height=9] Ice : 0.0213
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0219
+BEST : ab.vision.ABObject[x=519,y=319,width=7,height=7] Wood
+distance 4.386382367180425
+velocity 2.813371380853268
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+0.03 0.05 0.00 0.06 
+0.03 0.05 0.01 0.06 
+0.01 0.05 0.01 0.06 
+0.11 0.05 0.01 0.06 
+0.11 0.05 0.01 0.06 
+0.01 0.05 0.01 0.06 
+0.01 0.05 0.01 0.06 
+0.11 0.05 0.06 0.05 
+0.03 0.05 0.06 0.05 
+0.03 0.05 0.06 0.05 
+0.11 0.05 0.06 0.05 
+0.03 0.05 0.18 0.05 
+0.01 0.05 0.18 0.05 
+0.03 0.05 0.17 0.04 
+0.03 0.05 0.17 0.05 
+0.03 0.05 0.01 0.04 
+0.11 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+ab.vision.ABObject[x=314,y=372,width=9,height=9] Ice : 0.021
+ab.vision.ABObject[x=379,y=372,width=8,height=5] Ice : 0.0211
+ab.vision.ABObject[x=393,y=374,width=6,height=7] Stone : 0.0172
+ab.vision.ABObject[x=404,y=361,width=18,height=13] Wood : 0.0351
+ab.vision.ABObject[x=415,y=346,width=19,height=7] Wood : 0.0349
+ab.vision.ABObject[x=451,y=340,width=9,height=8] Stone : 0.0169
+ab.vision.ABObject[x=468,y=339,width=9,height=8] Stone : 0.017
+ab.vision.ABObject[x=467,y=330,width=29,height=13] Wood : 0.0658
+ab.vision.ABObject[x=481,y=325,width=10,height=10] Ice : 0.052
+ab.vision.ABObject[x=504,y=315,width=20,height=13] Ice : 0.0538
+ab.vision.ABObject[x=512,y=307,width=19,height=9] Wood : 0.0676
+ab.vision.ABObject[x=521,y=296,width=21,height=11] Ice : 0.1256
+ab.vision.ABObject[x=529,y=289,width=9,height=6] Stone : 0.1192
+ab.vision.ABObject[x=532,y=268,width=10,height=10] Ice : 0.1191
+ab.vision.ABObject[x=524,y=279,width=43,height=13] Ice : 0.1221
+ab.vision.ABObject[x=586,y=238,width=11,height=8] Ice : 0.0194
+ab.vision.ABObject[x=594,y=253,width=3,height=43] Wood : 0.034
+ab.vision.ABObject[x=603,y=237,width=9,height=9] Ice : 0.0194
+ab.vision.ABObject[x=587,y=247,width=43,height=6] Ice : 0.0195
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0194
+BEST : ab.vision.ABObject[x=521,y=296,width=21,height=11] Ice
+distance 4.288032547942195
+velocity 2.7264062419452917
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+0.03 0.05 0.01 0.06 
+0.03 0.05 0.01 0.06 
+0.01 0.05 0.01 0.06 
+0.09 0.05 0.01 0.06 
+0.09 0.05 0.01 0.05 
+0.01 0.05 0.01 0.05 
+0.09 0.05 0.11 0.05 
+0.03 0.05 0.11 0.05 
+0.03 0.05 0.12 0.05 
+0.09 0.05 0.12 0.05 
+0.01 0.05 0.36 0.05 
+0.09 0.05 0.01 0.05 
+0.03 0.05 0.01 0.04 
+0.03 0.05 0.01 0.05 
+0.03 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+0.09 0.05 0.01 0.05 
+0.03 0.05 0.01 0.04 
+0.09 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+0.03 0.05 0.01 0.04 
+ab.vision.ABObject[x=314,y=372,width=9,height=9] Ice : 0.0222
+ab.vision.ABObject[x=379,y=372,width=8,height=5] Ice : 0.0224
+ab.vision.ABObject[x=393,y=374,width=6,height=7] Stone : 0.0192
+ab.vision.ABObject[x=404,y=361,width=18,height=13] Wood : 0.0339
+ab.vision.ABObject[x=415,y=346,width=19,height=7] Wood : 0.0337
+ab.vision.ABObject[x=451,y=340,width=9,height=8] Stone : 0.0192
+ab.vision.ABObject[x=467,y=330,width=29,height=13] Wood : 0.0945
+ab.vision.ABObject[x=481,y=325,width=11,height=10] Ice : 0.0835
+ab.vision.ABObject[x=504,y=317,width=19,height=12] Ice : 0.0873
+ab.vision.ABObject[x=512,y=308,width=20,height=10] Wood : 0.0988
+ab.vision.ABObject[x=540,y=306,width=4,height=5] Stone : 0.232
+ab.vision.ABObject[x=545,y=306,width=16,height=15] Wood : 0.0345
+ab.vision.ABObject[x=560,y=280,width=3,height=6] Ice : 0.022
+ab.vision.ABObject[x=551,y=293,width=21,height=12] Ice : 0.0225
+ab.vision.ABObject[x=563,y=276,width=10,height=9] Ice : 0.0219
+ab.vision.ABObject[x=552,y=287,width=39,height=18] Ice : 0.0223
+ab.vision.ABObject[x=563,y=304,width=18,height=16] Wood : 0.0343
+ab.vision.ABObject[x=590,y=236,width=11,height=10] Ice : 0.0209
+ab.vision.ABObject[x=597,y=253,width=3,height=42] Wood : 0.0331
+ab.vision.ABObject[x=592,y=248,width=42,height=5] Ice : 0.021
+ab.vision.ABObject[x=626,y=236,width=9,height=10] Ice : 0.0208
+BEST : ab.vision.ABObject[x=540,y=306,width=4,height=5] Stone
+distance 4.560405925580903
+velocity 1.0278124395863424
+Shooting Completed
+Restart
+ restart the level 
+Zooming out
+0.07 0.07 0.06 0.09 
+0.07 0.07 0.06 0.08 
+0.07 0.07 0.17 0.08 
+0.07 0.07 0.19 0.08 
+0.07 0.07 0.16 0.06 
+0.07 0.07 0.16 0.07 
+0.07 0.07 0.01 0.06 
+0.07 0.07 0.16 0.07 
+0.01 0.07 0.01 0.07 
+0.07 0.07 0.01 0.06 
+0.07 0.07 0.01 0.05 
+0.07 0.07 0.00 0.05 
+0.07 0.07 0.01 0.06 
+0.07 0.07 0.00 0.05 
+0.07 0.07 0.00 0.06 
+ab.vision.ABObject[x=443,y=330,width=9,height=19] Ice : 0.0642
+ab.vision.ABObject[x=443,y=319,width=20,height=8] Ice : 0.0639
+ab.vision.ABObject[x=453,y=296,width=10,height=20] Ice : 0.1319
+ab.vision.ABObject[x=470,y=308,width=2,height=41] Ice : 0.1436
+ab.vision.ABObject[x=467,y=238,width=11,height=8] Ice : 0.1207
+ab.vision.ABObject[x=473,y=254,width=3,height=41] Ice : 0.1261
+ab.vision.ABObject[x=485,y=237,width=10,height=9] Ice : 0.0298
+ab.vision.ABObject[x=468,y=247,width=44,height=19] Ice : 0.123
+ab.vision.ABObject[x=504,y=254,width=3,height=41] Wood : 0.0209
+ab.vision.ABObject[x=527,y=226,width=5,height=41] Ice : 0.0299
+ab.vision.ABObject[x=526,y=209,width=8,height=9] Ice : 0.0291
+ab.vision.ABObject[x=544,y=208,width=7,height=10] Ice : 0.029
+ab.vision.ABObject[x=526,y=219,width=43,height=4] Ice : 0.0292
+ab.vision.ABObject[x=561,y=209,width=9,height=8] Ice : 0.029
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0296
+BEST : ab.vision.ABObject[x=470,y=308,width=2,height=41] Ice
+distance 4.167383539528531
+velocity 2.8249443571403874
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+0.08 0.07 0.00 0.09 
+0.01 0.07 0.00 0.09 
+0.08 0.07 0.00 0.09 
+0.08 0.07 0.04 0.07 
+0.01 0.07 0.00 0.08 
+0.08 0.07 0.04 0.08 
+0.08 0.07 0.13 0.07 
+0.08 0.07 0.12 0.05 
+0.08 0.07 0.12 0.06 
+0.08 0.07 0.14 0.07 
+0.08 0.07 0.12 0.05 
+0.08 0.07 0.12 0.05 
+0.08 0.07 0.13 0.06 
+0.08 0.07 0.00 0.05 
+0.08 0.07 0.00 0.06 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.032
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.021
+ab.vision.ABObject[x=390,y=374,width=3,height=5] Ice : 0.0321
+ab.vision.ABObject[x=446,y=310,width=2,height=25] Ice : 0.0534
+ab.vision.ABObject[x=453,y=337,width=6,height=10] Stone : 0.0205
+ab.vision.ABObject[x=486,y=312,width=15,height=32] Wood : 0.0554
+ab.vision.ABObject[x=519,y=284,width=11,height=20] Ice : 0.1086
+ab.vision.ABObject[x=521,y=210,width=9,height=8] Ice : 0.0987
+ab.vision.ABObject[x=523,y=226,width=7,height=42] Ice : 0.102
+ab.vision.ABObject[x=520,y=307,width=19,height=8] Wood : 0.1128
+ab.vision.ABObject[x=539,y=209,width=8,height=8] Ice : 0.0987
+ab.vision.ABObject[x=522,y=219,width=42,height=5] Ice : 0.0995
+ab.vision.ABObject[x=528,y=268,width=43,height=25] Ice : 0.1071
+ab.vision.ABObject[x=556,y=207,width=8,height=10] Ice : 0.0288
+ab.vision.ABObject[x=620,y=237,width=11,height=10] Ice : 0.0294
+BEST : ab.vision.ABObject[x=520,y=307,width=19,height=8] Wood
+Shooting Completed
+
+scale factor changed to: 1.0112936259745167
+0.04 0.06 0.00 0.07 
+0.01 0.06 0.00 0.07 
+0.04 0.06 0.00 0.07 
+0.04 0.06 0.00 0.06 
+0.04 0.06 0.04 0.06 
+0.04 0.06 0.04 0.05 
+0.04 0.06 0.04 0.06 
+0.04 0.06 0.04 0.06 
+0.14 0.06 0.05 0.06 
+0.04 0.06 0.05 0.06 
+0.04 0.06 0.04 0.05 
+0.04 0.06 0.14 0.06 
+0.01 0.06 0.13 0.05 
+0.14 0.06 0.13 0.04 
+0.14 0.06 0.13 0.05 
+0.04 0.06 0.13 0.05 
+0.04 0.06 0.00 0.04 
+0.04 0.06 0.00 0.04 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0233
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0185
+ab.vision.ABObject[x=390,y=374,width=3,height=5] Ice : 0.0234
+ab.vision.ABObject[x=445,y=341,width=2,height=8] Ice : 0.023
+ab.vision.ABObject[x=445,y=311,width=4,height=26] Ice : 0.0456
+ab.vision.ABObject[x=478,y=273,width=11,height=9] Ice : 0.0452
+ab.vision.ABObject[x=480,y=321,width=10,height=9] Ice : 0.0471
+ab.vision.ABObject[x=491,y=299,width=12,height=11] Ice : 0.0468
+ab.vision.ABObject[x=494,y=318,width=19,height=26] Wood : 0.0654
+ab.vision.ABObject[x=499,y=308,width=14,height=17] Ice : 0.0478
+ab.vision.ABObject[x=492,y=275,width=35,height=29] Ice : 0.0465
+ab.vision.ABObject[x=514,y=303,width=3,height=4] Ice : 0.1034
+ab.vision.ABObject[x=516,y=267,width=10,height=7] Stone : 0.0937
+ab.vision.ABObject[x=542,y=235,width=8,height=20] Wood : 0.1131
+ab.vision.ABObject[x=538,y=257,width=19,height=9] Wood : 0.1152
+ab.vision.ABObject[x=529,y=268,width=42,height=5] Ice : 0.0994
+ab.vision.ABObject[x=565,y=224,width=4,height=42] Ice : 0.0214
+ab.vision.ABObject[x=587,y=238,width=8,height=8] Ice : 0.0213
+BEST : ab.vision.ABObject[x=538,y=257,width=19,height=9] Wood
+distance 4.407247546293392
+velocity 2.4753218865470097
+Shooting Completed
+
+scale factor changed to: 1.0086160665237012
+0.07 0.05 0.00 0.06 
+0.01 0.05 0.00 0.06 
+0.07 0.05 0.00 0.05 
+0.07 0.05 0.00 0.05 
+0.01 0.05 0.00 0.05 
+0.07 0.05 0.04 0.05 
+0.01 0.05 0.00 0.05 
+0.07 0.05 0.00 0.05 
+0.01 0.05 0.05 0.05 
+0.01 0.05 0.15 0.05 
+0.01 0.05 0.15 0.05 
+0.01 0.05 0.14 0.05 
+0.07 0.05 0.14 0.04 
+0.01 0.05 0.14 0.04 
+0.07 0.05 0.13 0.04 
+0.07 0.05 0.00 0.04 
+0.01 0.05 0.00 0.04 
+0.01 0.05 0.00 0.04 
+0.07 0.05 0.00 0.04 
+0.07 0.05 0.00 0.04 
+0.07 0.05 0.00 0.04 
+0.07 0.05 0.00 0.04 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0262
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0147
+ab.vision.ABObject[x=393,y=373,width=4,height=3] Ice : 0.0263
+ab.vision.ABObject[x=399,y=373,width=2,height=6] Ice : 0.0263
+ab.vision.ABObject[x=450,y=341,width=7,height=8] Stone : 0.0145
+ab.vision.ABObject[x=453,y=329,width=8,height=8] Ice : 0.0491
+ab.vision.ABObject[x=472,y=340,width=5,height=8] Stone : 0.0145
+ab.vision.ABObject[x=486,y=339,width=10,height=9] Ice : 0.0262
+ab.vision.ABObject[x=498,y=331,width=10,height=8] Stone : 0.0398
+ab.vision.ABObject[x=520,y=319,width=7,height=7] Wood : 0.1009
+ab.vision.ABObject[x=515,y=330,width=19,height=8] Wood : 0.1034
+ab.vision.ABObject[x=523,y=308,width=18,height=8] Wood : 0.1001
+ab.vision.ABObject[x=534,y=274,width=9,height=19] Ice : 0.1045
+ab.vision.ABObject[x=534,y=297,width=20,height=8] Wood : 0.0982
+ab.vision.ABObject[x=531,y=269,width=42,height=2] Ice : 0.1025
+ab.vision.ABObject[x=585,y=275,width=10,height=10] Ice : 0.0253
+ab.vision.ABObject[x=603,y=259,width=8,height=15] Wood : 0.0147
+ab.vision.ABObject[x=609,y=275,width=7,height=8] Stone : 0.0136
+ab.vision.ABObject[x=610,y=238,width=11,height=9] Ice : 0.0246
+ab.vision.ABObject[x=601,y=247,width=43,height=9] Ice : 0.0248
+ab.vision.ABObject[x=625,y=253,width=11,height=42] Ice : 0.0251
+ab.vision.ABObject[x=628,y=236,width=11,height=9] Ice : 0.0246
+BEST : ab.vision.ABObject[x=534,y=274,width=9,height=19] Ice
+distance 4.315048987230906
+velocity 2.5702434829279164
+Shooting Completed
+
+scale factor changed to: 0.9891830726122296
+0.07 0.03 0.00 0.04 
+0.01 0.03 0.00 0.04 
+0.07 0.03 0.00 0.04 
+0.07 0.03 0.00 0.04 
+0.01 0.03 0.00 0.03 
+0.07 0.03 0.05 0.03 
+0.01 0.03 0.00 0.03 
+0.07 0.03 0.00 0.03 
+0.01 0.03 0.05 0.03 
+0.01 0.03 0.01 0.03 
+0.01 0.03 0.16 0.03 
+0.01 0.03 0.16 0.03 
+0.01 0.03 0.16 0.03 
+0.01 0.03 0.15 0.03 
+0.01 0.03 0.16 0.03 
+0.01 0.03 0.01 0.03 
+0.01 0.03 0.00 0.03 
+0.01 0.03 0.01 0.03 
+0.01 0.03 0.01 0.03 
+0.01 0.03 0.01 0.03 
+0.07 0.03 0.00 0.03 
+0.07 0.03 0.00 0.03 
+0.07 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.07 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.07 0.03 0.00 0.03 
+0.07 0.03 0.00 0.04 
+0.07 0.03 0.00 0.04 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0213
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0112
+ab.vision.ABObject[x=393,y=373,width=4,height=3] Ice : 0.0214
+ab.vision.ABObject[x=399,y=373,width=2,height=6] Ice : 0.0214
+ab.vision.ABObject[x=450,y=341,width=7,height=8] Stone : 0.0111
+ab.vision.ABObject[x=453,y=329,width=8,height=8] Ice : 0.0463
+ab.vision.ABObject[x=472,y=340,width=5,height=8] Stone : 0.0112
+ab.vision.ABObject[x=487,y=340,width=7,height=8] Ice : 0.0214
+ab.vision.ABObject[x=498,y=331,width=10,height=8] Stone : 0.0385
+ab.vision.ABObject[x=510,y=341,width=19,height=7] Wood : 0.0126
+ab.vision.ABObject[x=520,y=319,width=7,height=7] Wood : 0.1042
+ab.vision.ABObject[x=515,y=330,width=19,height=8] Wood : 0.1068
+ab.vision.ABObject[x=523,y=308,width=19,height=7] Wood : 0.1033
+ab.vision.ABObject[x=534,y=296,width=19,height=9] Wood : 0.1012
+ab.vision.ABObject[x=531,y=318,width=41,height=3] Wood : 0.1086
+ab.vision.ABObject[x=551,y=307,width=2,height=8] Wood : 0.0123
+ab.vision.ABObject[x=557,y=276,width=9,height=19] Wood : 0.0119
+ab.vision.ABObject[x=557,y=295,width=18,height=12] Wood : 0.0121
+ab.vision.ABObject[x=569,y=307,width=19,height=9] Wood : 0.0122
+ab.vision.ABObject[x=577,y=319,width=7,height=7] Wood : 0.0124
+ab.vision.ABObject[x=577,y=285,width=19,height=15] Ice : 0.021
+ab.vision.ABObject[x=587,y=292,width=19,height=17] Ice : 0.0211
+ab.vision.ABObject[x=606,y=283,width=9,height=9] Ice : 0.0209
+ab.vision.ABObject[x=620,y=289,width=6,height=7] Stone : 0.0107
+ab.vision.ABObject[x=607,y=306,width=43,height=2] Wood : 0.0119
+ab.vision.ABObject[x=609,y=300,width=40,height=2] Wood : 0.0119
+ab.vision.ABObject[x=627,y=278,width=6,height=7] Stone : 0.0105
+ab.vision.ABObject[x=624,y=311,width=21,height=39] Ice : 0.0212
+ab.vision.ABObject[x=632,y=289,width=6,height=7] Stone : 0.0106
+ab.vision.ABObject[x=627,y=265,width=22,height=30] Ice : 0.0207
+ab.vision.ABObject[x=725,y=374,width=6,height=4] Ice : 0.019
+ab.vision.ABObject[x=734,y=374,width=8,height=7] Ice : 0.019
+BEST : ab.vision.ABObject[x=531,y=318,width=41,height=3] Wood
+Shooting Completed
+
+scale factor changed to: 0.9891830726122296
+0.02 0.03 0.00 0.04 
+0.01 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.01 0.03 0.00 0.03 
+0.02 0.03 0.05 0.03 
+0.01 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.01 0.03 0.05 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.16 0.03 
+0.06 0.03 0.16 0.03 
+0.06 0.03 0.16 0.03 
+0.06 0.03 0.15 0.03 
+0.06 0.03 0.17 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.01 0.03 
+0.02 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.06 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.06 0.03 0.00 0.03 
+0.01 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0135
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0113
+ab.vision.ABObject[x=393,y=373,width=4,height=3] Ice : 0.0135
+ab.vision.ABObject[x=399,y=373,width=2,height=6] Ice : 0.0135
+ab.vision.ABObject[x=450,y=341,width=7,height=8] Stone : 0.0113
+ab.vision.ABObject[x=453,y=329,width=8,height=8] Ice : 0.0387
+ab.vision.ABObject[x=472,y=340,width=5,height=8] Stone : 0.0113
+ab.vision.ABObject[x=486,y=340,width=8,height=8] Ice : 0.0136
+ab.vision.ABObject[x=498,y=333,width=9,height=6] Stone : 0.039
+ab.vision.ABObject[x=510,y=341,width=19,height=7] Wood : 0.0213
+ab.vision.ABObject[x=520,y=319,width=8,height=7] Wood : 0.114
+ab.vision.ABObject[x=514,y=330,width=20,height=7] Wood : 0.1162
+ab.vision.ABObject[x=532,y=296,width=16,height=18] Wood : 0.1119
+ab.vision.ABObject[x=540,y=284,width=18,height=11] Wood : 0.1082
+ab.vision.ABObject[x=531,y=318,width=41,height=3] Wood : 0.1183
+ab.vision.ABObject[x=553,y=308,width=5,height=5] Wood : 0.0209
+ab.vision.ABObject[x=557,y=293,width=18,height=14] Wood : 0.0207
+ab.vision.ABObject[x=569,y=307,width=19,height=8] Wood : 0.0209
+ab.vision.ABObject[x=577,y=319,width=7,height=7] Wood : 0.021
+ab.vision.ABObject[x=577,y=284,width=19,height=16] Ice : 0.0131
+ab.vision.ABObject[x=590,y=289,width=17,height=20] Ice : 0.0131
+ab.vision.ABObject[x=606,y=282,width=10,height=11] Ice : 0.0129
+ab.vision.ABObject[x=621,y=289,width=6,height=7] Stone : 0.0108
+ab.vision.ABObject[x=608,y=306,width=41,height=3] Wood : 0.0206
+ab.vision.ABObject[x=627,y=278,width=6,height=7] Stone : 0.0107
+ab.vision.ABObject[x=610,y=300,width=41,height=2] Wood : 0.0205
+ab.vision.ABObject[x=632,y=288,width=6,height=8] Stone : 0.0108
+ab.vision.ABObject[x=624,y=310,width=22,height=40] Ice : 0.0133
+ab.vision.ABObject[x=629,y=266,width=21,height=28] Ice : 0.0128
+ab.vision.ABObject[x=725,y=374,width=6,height=4] Ice : 0.0111
+ab.vision.ABObject[x=734,y=374,width=8,height=7] Ice : 0.0111
+BEST : ab.vision.ABObject[x=531,y=318,width=41,height=3] Wood
+Randomly changing to java.awt.Point[x=531,y=327]
+distance 3.988709988019667
+velocity 2.7474910439478157
+Shooting Completed
+
+scale factor changed to: 0.9891830726122296
+0.02 0.03 0.00 0.04 
+0.01 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.01 0.03 0.00 0.03 
+0.02 0.03 0.05 0.03 
+0.01 0.03 0.00 0.03 
+0.02 0.03 0.00 0.03 
+0.01 0.03 0.05 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.05 0.03 
+0.06 0.03 0.06 0.03 
+0.06 0.03 0.06 0.03 
+0.02 0.03 0.17 0.03 
+0.02 0.03 0.18 0.03 
+0.01 0.03 0.01 0.03 
+0.02 0.03 0.01 0.03 
+0.06 0.03 0.01 0.03 
+0.06 0.03 0.01 0.03 
+0.01 0.03 0.01 0.03 
+0.01 0.03 0.01 0.03 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+0.02 0.03 0.00 0.04 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0135
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0113
+ab.vision.ABObject[x=393,y=373,width=4,height=3] Ice : 0.0135
+ab.vision.ABObject[x=399,y=373,width=2,height=6] Ice : 0.0135
+ab.vision.ABObject[x=450,y=341,width=7,height=8] Stone : 0.0112
+ab.vision.ABObject[x=453,y=329,width=8,height=8] Ice : 0.0391
+ab.vision.ABObject[x=472,y=340,width=5,height=8] Stone : 0.0113
+ab.vision.ABObject[x=485,y=339,width=9,height=9] Ice : 0.0134
+ab.vision.ABObject[x=497,y=333,width=11,height=6] Stone : 0.0382
+ab.vision.ABObject[x=510,y=341,width=20,height=7] Wood : 0.021
+ab.vision.ABObject[x=514,y=330,width=20,height=7] Wood : 0.0486
+ab.vision.ABObject[x=536,y=330,width=2,height=18] Wood : 0.0493
+ab.vision.ABObject[x=529,y=318,width=18,height=9] Wood : 0.049
+ab.vision.ABObject[x=550,y=309,width=8,height=18] Wood : 0.0498
+ab.vision.ABObject[x=560,y=330,width=6,height=17] Wood : 0.0509
+ab.vision.ABObject[x=562,y=322,width=7,height=4] Wood : 0.0507
+ab.vision.ABObject[x=561,y=305,width=19,height=11] Wood : 0.0505
+ab.vision.ABObject[x=573,y=316,width=7,height=8] Wood : 0.0514
+ab.vision.ABObject[x=567,y=326,width=19,height=12] Wood : 0.0521
+ab.vision.ABObject[x=578,y=294,width=19,height=17] Ice : 0.1101
+ab.vision.ABObject[x=605,y=311,width=10,height=11] Ice : 0.118
+ab.vision.ABObject[x=637,y=294,width=6,height=8] Stone : 0.0112
+ab.vision.ABObject[x=624,y=319,width=32,height=30] Ice : 0.0139
+ab.vision.ABObject[x=621,y=310,width=42,height=7] Wood : 0.0211
+ab.vision.ABObject[x=623,y=304,width=41,height=7] Wood : 0.021
+ab.vision.ABObject[x=644,y=284,width=7,height=8] Stone : 0.0111
+ab.vision.ABObject[x=648,y=295,width=6,height=9] Stone : 0.0112
+ab.vision.ABObject[x=703,y=372,width=3,height=6] Ice : 0.011
+ab.vision.ABObject[x=708,y=372,width=2,height=6] Ice : 0.011
+ab.vision.ABObject[x=725,y=374,width=6,height=4] Ice : 0.011
+ab.vision.ABObject[x=734,y=374,width=8,height=7] Ice : 0.0111
+BEST : ab.vision.ABObject[x=605,y=311,width=10,height=11] Ice
+distance 5.051226696147152
+velocity 2.526923899790914
+Shooting Completed
+
+scale factor changed to: 1.013635832715503
+0.05 0.07 0.01 0.08 
+0.02 0.07 0.01 0.08 
+0.05 0.07 0.01 0.08 
+0.05 0.07 0.01 0.08 
+0.02 0.07 0.01 0.07 
+0.05 0.07 0.10 0.07 
+0.02 0.07 0.10 0.07 
+0.16 0.07 0.10 0.07 
+0.16 0.07 0.10 0.07 
+0.16 0.07 0.11 0.07 
+0.16 0.07 0.11 0.06 
+0.05 0.07 0.33 0.06 
+0.02 0.07 0.00 0.08 
+0.05 0.07 0.00 0.08 
+ab.vision.ABObject[x=356,y=374,width=8,height=8] Ice : 0.0304
+ab.vision.ABObject[x=371,y=374,width=8,height=7] Stone : 0.0248
+ab.vision.ABObject[x=393,y=373,width=4,height=3] Ice : 0.0304
+ab.vision.ABObject[x=399,y=373,width=2,height=6] Ice : 0.0305
+ab.vision.ABObject[x=450,y=341,width=7,height=8] Stone : 0.0245
+ab.vision.ABObject[x=453,y=329,width=8,height=8] Ice : 0.0817
+ab.vision.ABObject[x=496,y=333,width=12,height=6] Stone : 0.0786
+ab.vision.ABObject[x=514,y=330,width=19,height=7] Wood : 0.1053
+ab.vision.ABObject[x=530,y=319,width=18,height=7] Wood : 0.1063
+ab.vision.ABObject[x=551,y=310,width=10,height=18] Wood : 0.1079
+ab.vision.ABObject[x=563,y=304,width=17,height=16] Wood : 0.1093
+ab.vision.ABObject[x=580,y=296,width=19,height=15] Ice : 0.225
+ab.vision.ABObject[x=733,y=363,width=5,height=7] Stone : 0.0198
+ab.vision.ABObject[x=735,y=373,width=7,height=8] Ice : 0.0255
+BEST : ab.vision.ABObject[x=580,y=296,width=19,height=15] Ice
+distance 5.377867681575671
+velocity 2.61176750157187
+Shooting Completed
+Restart
+ restart the level 
+Zooming out
+0.09 0.08 0.06 0.10 
+0.09 0.08 0.06 0.09 
+0.09 0.08 0.17 0.09 
+0.09 0.08 0.19 0.09 
+0.09 0.08 0.16 0.07 
+0.09 0.08 0.17 0.08 
+0.09 0.08 0.16 0.07 
+0.02 0.08 0.01 0.08 
+0.09 0.08 0.01 0.07 
+0.09 0.08 0.01 0.06 
+0.09 0.08 0.01 0.06 
+0.01 0.08 0.01 0.07 
+0.09 0.08 0.00 0.06 
+ab.vision.ABObject[x=443,y=330,width=9,height=19] Ice : 0.0701
+ab.vision.ABObject[x=443,y=319,width=20,height=8] Ice : 0.0698
+ab.vision.ABObject[x=453,y=296,width=10,height=20] Ice : 0.1384
+ab.vision.ABObject[x=470,y=308,width=2,height=41] Ice : 0.1503
+ab.vision.ABObject[x=467,y=238,width=11,height=8] Ice : 0.1269
+ab.vision.ABObject[x=473,y=254,width=3,height=41] Ice : 0.1324
+ab.vision.ABObject[x=468,y=247,width=44,height=19] Ice : 0.1292
+ab.vision.ABObject[x=504,y=254,width=3,height=41] Wood : 0.0238
+ab.vision.ABObject[x=527,y=226,width=5,height=41] Ice : 0.0352
+ab.vision.ABObject[x=526,y=209,width=8,height=9] Ice : 0.0343
+ab.vision.ABObject[x=526,y=219,width=43,height=4] Ice : 0.0344
+ab.vision.ABObject[x=545,y=226,width=8,height=8] Stone : 0.0209
+ab.vision.ABObject[x=561,y=209,width=9,height=8] Ice : 0.0342
+BEST : ab.vision.ABObject[x=470,y=308,width=2,height=41] Ice
+distance 3.9469667005335234
+velocity 2.8327379506044488
+Shooting Completed
+
+scale factor changed to: 1.013635832715503
+0.07 0.06 0.00 0.08 
+0.07 0.06 0.00 0.07 
+0.07 0.06 0.00 0.07 
+0.07 0.06 0.00 0.07 
+0.07 0.06 0.00 0.07 
+0.01 0.06 0.00 0.07 
+0.01 0.06 0.05 0.07 
+0.07 0.06 0.05 0.07 
+0.07 0.06 0.16 0.06 
+0.07 0.06 0.15 0.06 
+0.07 0.06 0.15 0.06 
+0.07 0.06 0.14 0.05 
+0.07 0.06 0.00 0.06 
+0.07 0.06 0.14 0.06 
+0.07 0.06 0.13 0.04 
+0.07 0.06 0.00 0.04 
+ab.vision.ABObject[x=365,y=374,width=3,height=5] Ice : 0.0298
+ab.vision.ABObject[x=393,y=365,width=4,height=8] Ice : 0.0297
+ab.vision.ABObject[x=396,y=363,width=7,height=15] Ice : 0.0298
+ab.vision.ABObject[x=409,y=347,width=30,height=14] Wood : 0.0295
+ab.vision.ABObject[x=454,y=341,width=9,height=8] Ice : 0.0295
+ab.vision.ABObject[x=475,y=339,width=7,height=7] Stone : 0.0193
+ab.vision.ABObject[x=477,y=327,width=8,height=7] Stone : 0.0447
+ab.vision.ABObject[x=487,y=306,width=7,height=40] Wood : 0.0554
+ab.vision.ABObject[x=518,y=319,width=7,height=7] Wood : 0.1198
+ab.vision.ABObject[x=521,y=285,width=8,height=20] Ice : 0.1143
+ab.vision.ABObject[x=521,y=308,width=18,height=8] Wood : 0.119
+ab.vision.ABObject[x=531,y=225,width=6,height=42] Ice : 0.107
+ab.vision.ABObject[x=548,y=275,width=7,height=18] Wood : 0.0285
+ab.vision.ABObject[x=530,y=268,width=43,height=25] Ice : 0.1124
+ab.vision.ABObject[x=530,y=219,width=44,height=5] Ice : 0.1044
+ab.vision.ABObject[x=549,y=209,width=9,height=8] Ice : 0.027
+BEST : ab.vision.ABObject[x=518,y=319,width=7,height=7] Wood
+Shooting Completed
+
+scale factor changed to: 1.0121636373641563
+0.03 0.05 0.00 0.06 
+0.03 0.05 0.00 0.06 
+0.03 0.05 0.00 0.06 
+0.09 0.05 0.00 0.06 
+0.03 0.05 0.00 0.05 
+0.01 0.05 0.00 0.05 
+0.01 0.05 0.03 0.05 
+0.09 0.05 0.04 0.05 
+0.09 0.05 0.04 0.05 
+0.09 0.05 0.12 0.05 
+0.09 0.05 0.12 0.05 
+0.03 0.05 0.11 0.05 
+0.09 0.05 0.11 0.05 
+0.03 0.05 0.10 0.04 
+0.03 0.05 0.10 0.03 
+0.09 0.05 0.00 0.04 
+0.03 0.05 0.11 0.04 
+0.03 0.05 0.10 0.03 
+0.03 0.05 0.00 0.04 
+0.03 0.05 0.00 0.03 
+0.03 0.05 0.00 0.04 
+ab.vision.ABObject[x=365,y=374,width=3,height=5] Ice : 0.0184
+ab.vision.ABObject[x=393,y=365,width=4,height=8] Ice : 0.0183
+ab.vision.ABObject[x=396,y=363,width=7,height=15] Ice : 0.0183
+ab.vision.ABObject[x=409,y=347,width=30,height=14] Wood : 0.0294
+ab.vision.ABObject[x=454,y=341,width=9,height=8] Ice : 0.0181
+ab.vision.ABObject[x=472,y=338,width=8,height=8] Stone : 0.0149
+ab.vision.ABObject[x=475,y=326,width=8,height=8] Stone : 0.0337
+ab.vision.ABObject[x=487,y=305,width=3,height=41] Wood : 0.0484
+ab.vision.ABObject[x=493,y=304,width=3,height=42] Wood : 0.0487
+ab.vision.ABObject[x=519,y=319,width=8,height=7] Wood : 0.0965
+ab.vision.ABObject[x=515,y=330,width=18,height=8] Wood : 0.0986
+ab.vision.ABObject[x=521,y=285,width=9,height=20] Ice : 0.0809
+ab.vision.ABObject[x=521,y=308,width=18,height=8] Wood : 0.0956
+ab.vision.ABObject[x=531,y=225,width=5,height=42] Ice : 0.0755
+ab.vision.ABObject[x=534,y=207,width=9,height=10] Ice : 0.0728
+ab.vision.ABObject[x=547,y=275,width=8,height=18] Wood : 0.0286
+ab.vision.ABObject[x=531,y=268,width=42,height=26] Ice : 0.0796
+ab.vision.ABObject[x=534,y=219,width=42,height=5] Ice : 0.0735
+ab.vision.ABObject[x=561,y=274,width=9,height=20] Ice : 0.0174
+ab.vision.ABObject[x=569,y=209,width=9,height=9] Ice : 0.0162
+ab.vision.ABObject[x=620,y=237,width=11,height=9] Ice : 0.0166
+BEST : ab.vision.ABObject[x=515,y=330,width=18,height=8] Wood
+distance 4.0368290593486
+velocity 2.840481069285849
+Shooting Completed
+
+scale factor changed to: 1.0121636373641563
+0.09 0.06 0.00 0.07 
+0.09 0.06 0.00 0.06 
+0.09 0.06 0.00 0.06 
+0.02 0.06 0.00 0.06 
+0.02 0.06 0.04 0.06 
+0.02 0.06 0.04 0.06 
+0.01 0.06 0.00 0.06 
+0.01 0.06 0.04 0.06 
+0.02 0.06 0.04 0.06 
+0.09 0.06 0.04 0.05 
+0.09 0.06 0.04 0.05 
+0.09 0.06 0.04 0.05 
+0.09 0.06 0.04 0.05 
+0.09 0.06 0.12 0.04 
+0.02 0.06 0.15 0.06 
+0.02 0.06 0.13 0.05 
+0.02 0.06 0.14 0.05 
+0.09 0.06 0.12 0.04 
+ab.vision.ABObject[x=365,y=374,width=3,height=5] Ice : 0.0319
+ab.vision.ABObject[x=393,y=365,width=4,height=8] Ice : 0.0318
+ab.vision.ABObject[x=396,y=363,width=7,height=15] Ice : 0.0319
+ab.vision.ABObject[x=409,y=346,width=30,height=15] Wood : 0.0185
+ab.vision.ABObject[x=445,y=335,width=18,height=12] Wood : 0.0392
+ab.vision.ABObject[x=479,y=319,width=16,height=17] Wood : 0.0397
+ab.vision.ABObject[x=490,y=341,width=5,height=7] Stone : 0.0169
+ab.vision.ABObject[x=492,y=309,width=7,height=10] Stone : 0.038
+ab.vision.ABObject[x=508,y=313,width=19,height=12] Wood : 0.0403
+ab.vision.ABObject[x=517,y=307,width=16,height=12] Ice : 0.0535
+ab.vision.ABObject[x=515,y=295,width=33,height=21] Ice : 0.0535
+ab.vision.ABObject[x=535,y=282,width=10,height=11] Ice : 0.0532
+ab.vision.ABObject[x=552,y=273,width=17,height=36] Ice : 0.0539
+ab.vision.ABObject[x=590,y=236,width=8,height=9] Ice : 0.1007
+ab.vision.ABObject[x=594,y=308,width=5,height=41] Wood : 0.1059
+ab.vision.ABObject[x=595,y=253,width=4,height=42] Wood : 0.0919
+ab.vision.ABObject[x=591,y=298,width=41,height=3] Wood : 0.0971
+ab.vision.ABObject[x=590,y=247,width=43,height=6] Ice : 0.1019
+BEST : ab.vision.ABObject[x=594,y=308,width=5,height=41] Wood
+distance 5.17605385834847
+velocity 2.637191531030343
+Shooting Completed
+
+scale factor changed to: 1.0008056480566898
+Shooting Completed
+
+scale factor changed to: 1.0008056480566898
+Randomly changing to java.awt.Point[x=617,y=333]
+distance 5.33331177414002
+velocity 1.2768605838274898
+Shooting Completed
+ Level 1 Score: 30390 
+ Level 2 Score: 53100 
+ Level 3 Score: 40470 
+ Level 4 Score: 28670 
+ Level 5 Score: 55420 
+ Level 6 Score: 25260 
+ Level 7 Score: 36770 
+ Level 8 Score: 36630 
+ Level 9 Score: 23910 
+ Level 10 Score: 38980 
+ Level 11 Score: 58980 
+ Level 12 Score: 53550 
+ Level 13 Score: 49090 
+ Level 14 Score: 65640 
+ Level 15 Score: 46010 
+ Level 16 Score: 53800 
+ Level 17 Score: 48600 
+ Level 18 Score: 53550 
+ Level 19 Score: 34260 
+ Level 20 Score: 42560 
+ Level 21 Score: 78240 
+Total Score: 953880
