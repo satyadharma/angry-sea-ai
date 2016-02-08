@@ -208,12 +208,7 @@ public class SeaAgent implements Runnable {
 					// estimate the trajectory
 					ArrayList<Point> pts = tp.estimateLaunchPoint(sling, _tpt);
 
-					// do a high shot when entering a level to find an accurate velocity
-					if (firstShot && pts.size() > 1)
-					{
-						releasePoint = pts.get(1);
-					}
-					else if (pts.size() == 1)
+					if (pts.size() == 1)
 						releasePoint = pts.get(0);
 					else if (pts.size() == 2)
 					{
@@ -243,7 +238,7 @@ public class SeaAgent implements Runnable {
 						//System.out.println("Release Angle: "
 						//		+ Math.toDegrees(releaseAngle));
 						int tapInterval = 0;
-						switch (aRobot.getBirdTypeOnSling())
+						switch (bird)
 						{
 							case RedBird:
 								tapInterval = 0; break;               // start of trajectory
